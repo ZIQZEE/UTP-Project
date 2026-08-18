@@ -1,51 +1,49 @@
-<h1 align="center">Hi, I'm Haziq 👋</h1>
+# Retail Sales Forecasting Using Customer Purchase Behavior
 
-<p align="center">
-  <b>Big Data Analytics student | Aspiring Data Analyst & BI Developer</b>
-</p>
+A data mining project that analyzes a retail dataset of 1 million transactions and 78 attributes to identify customer purchasing patterns and sales drivers. It builds Random Forest models to predict customer churn and forecast total sales.
 
-<p align="center">
-  <a href="mailto:itsziq04@gmail.com"><img src="https://img.shields.io/badge/Email-itsziq04%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-haziq-akmal"><img src="https://img.shields.io/badge/LinkedIn-muhammad--haziq--akmal-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Jan%202027-2F9E5B?style=flat" />
-</p>
+## Dataset
 
----
+`retail_data.csv` is not included in this repository, it's 518 MB, well over GitHub's 100 MB file limit. Download it from Google Drive: https://drive.google.com/file/d/1hHJ33qKHkN9H4a3zoHxdaGdHeWoBcrlB/view?usp=sharing. Place it in this folder before running the script, or update `CSV_PATH` in `generate_charts.py` to point to your local copy.
 
-### About me
+The dataset contains 1,000,000 rows and 78 columns, covering customer demographics, transaction history, purchasing behavior, loyalty metrics, product details, promotions, and store information.
 
-🎓 Final-year **Information Technology** student at **Universiti Teknologi PETRONAS**, majoring in **Big Data Analytics** with a minor in **Corporate Management**. Graduating December 2026.
+## What the script does
 
-📊 I work with data analysis, business intelligence, and machine learning, turning raw data into insights people can act on. Comfortable with Power BI Desktop and Power BI Service.
+`generate_charts.py`:
 
-🔭 Looking for a role starting **January 2027** in data analytics, business intelligence, or programming, with a strong interest in **Power BI development, data analysis, big data analytics, and AI/ML**.
+1. Loads the full dataset and reports row count, duplicates, and missing values.
+2. Samples 150,000 rows for model training (configurable via `SAMPLE_N`).
+3. Prepares features from customer demographics, transaction history, purchasing behavior, loyalty metrics, and customer value indicators.
+4. Trains a Random Forest Classifier to predict customer churn.
+5. Trains a Random Forest Regressor to forecast total sales.
+6. Evaluates the classifier with accuracy, precision, recall, F1-score, and a confusion matrix.
+7. Evaluates the regressor with MAE, RMSE, and R-squared.
+8. Saves all results to `results.json` and saves charts (confusion matrix, feature importance, correlation heat map, and more) to the `figs/` folder.
 
----
+## How to run
 
-### Tech stack
+1. Install the dependencies:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+   ```
+   pip install -r requirements.txt
+   ```
 
----
+2. Download `retail_data.csv` and place it in this folder, or update the `CSV_PATH` variable at the top of `generate_charts.py`.
 
-### 📌 Featured project
+3. Run the script:
 
-**Superstore Intelligence Dashboard** — an interactive e-commerce BI dashboard built with Streamlit and Plotly, analyzing 9,983 transactions across four years of sales data. See the `DV` branch for the full project.
+   ```
+   python generate_charts.py
+   ```
 
----
+4. Check `results.json` for the metrics and the `figs/` folder for the charts.
 
-### 📫 Reach me
+## Results summary
 
-<p align="left">
-  <a href="mailto:itsziq04@gmail.com">📧 itsziq04@gmail.com</a><br/>
-  <a href="https://www.linkedin.com/in/muhammad-haziq-akmal">💼 www.linkedin.com/in/muhammad-haziq-akmal</a>
-</p>
+- Churn model: see `results.json` for accuracy, precision, recall, F1-score, and top features.
+- Sales regression model: see `results.json` for MAE, RMSE, and R-squared.
+
+## Tech stack
+
+Python, Pandas, NumPy, scikit-learn, Matplotlib

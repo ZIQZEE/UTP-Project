@@ -1,0 +1,68 @@
+{
+  "n_rows_raw": 1000000,
+  "n_cols_raw": 78,
+  "duplicates_found": 0,
+  "missing_values_found": 0,
+  "sample_size_used": 150000,
+  "churn": {
+    "accuracy": 0.49723333333333336,
+    "precision": 0.4953835934905347,
+    "recall": 0.49906316916488225,
+    "f1": 0.4972165738857962,
+    "confusion_matrix": [
+      [
+        7459,
+        7597
+      ],
+      [
+        7486,
+        7458
+      ]
+    ],
+    "train_size": 120000,
+    "test_size": 30000,
+    "top_features": {
+      "total_returned_value": 0.036222334036455785,
+      "max_single_purchase_value": 0.03503331503841779,
+      "total_sales": 0.03499717366826078,
+      "avg_spent_per_category": 0.03491647025900895,
+      "avg_purchase_value": 0.03417610543376816,
+      "distance_to_store": 0.033263068657967285,
+      "unit_price": 0.03324335482018308,
+      "total_discounts_received": 0.031033569231843933,
+      "avg_transaction_value": 0.030692645081431064,
+      "min_single_purchase_value": 0.030660674055742902,
+      "product_shelf_life": 0.030250181233905982,
+      "product_weight": 0.02976282781332161,
+      "days_since_last_purchase": 0.029352821635962364,
+      "avg_items_per_transaction": 0.028992033920011536,
+      "product_review_count": 0.028771907647543272
+    }
+  },
+  "regression": {
+    "mae": 2481.021560160664,
+    "rmse": 2862.3125522139253,
+    "r2": -0.001060485017836399,
+    "train_size": 120000,
+    "test_size": 30000,
+    "target_mean": 5066.452385533333,
+    "target_std": 2857.884784745287,
+    "top_features": {
+      "avg_spent_per_category": 0.0398664681536899,
+      "unit_price": 0.037666797759045335,
+      "avg_transaction_value": 0.03708885931513722,
+      "max_single_purchase_value": 0.03700678219900824,
+      "total_returned_value": 0.03641083779136988,
+      "distance_to_store": 0.036232694009293846,
+      "avg_purchase_value": 0.036110843718480654,
+      "min_single_purchase_value": 0.03422929366937367,
+      "total_discounts_received": 0.03422021347822131,
+      "product_weight": 0.03310334065454354,
+      "avg_items_per_transaction": 0.03282344303832219,
+      "product_shelf_life": 0.03146882864930817,
+      "total_items_purchased": 0.030684149573204884,
+      "days_since_last_purchase": 0.03052489300324776,
+      "product_review_count": 0.030475356935709737
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# Dataset (too large for GitHub, see README for download link)
+retail_data.csv
+
+# Generated output
+figs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
