@@ -37,9 +37,11 @@
 
 ---
 
-### 📌 Featured project
+### 📌 Featured projects
 
 **Superstore Intelligence Dashboard** — an interactive e-commerce BI dashboard built with Streamlit and Plotly, analyzing 9,983 transactions across four years of sales data. See the `DV` branch for the full project.
+
+**Retail Sales Forecasting Using Customer Purchase Behavior** — a data mining project analyzing 1 million retail transactions to predict customer churn and forecast sales with Random Forest models. See the `DM` branch for the full project.
 
 ---
 
