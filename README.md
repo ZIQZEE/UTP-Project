@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:muhammad_22002715@utp.edu.my"><img src="https://img.shields.io/badge/Email-muhammad__22002715%40utp.edu.my-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/haziq-akmal"><img src="https://img.shields.io/badge/LinkedIn-haziq--akmal-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:itsziq04@gmail.com"><img src="https://img.shields.io/badge/Email-itsziq04%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-haziq-akmal"><img src="https://img.shields.io/badge/LinkedIn-muhammad--haziq--akmal-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Jan%202027-2F9E5B?style=flat" />
 </p>
 
@@ -16,7 +16,7 @@
 
 🎓 Final-year **Information Technology** student at **Universiti Teknologi PETRONAS**, majoring in **Big Data Analytics** with a minor in **Corporate Management**. Graduating December 2026.
 
-📊 I work with data analysis, business intelligence, and machine learning, turning raw data into insights people can act on.
+📊 I work with data analysis, business intelligence, and machine learning, turning raw data into insights people can act on. Comfortable with Power BI Desktop and Power BI Service.
 
 🔭 Looking for a role starting **January 2027** in data analytics, business intelligence, or programming, with a strong interest in **Power BI development, data analysis, big data analytics, and AI/ML**.
 
@@ -46,6 +46,6 @@
 ### 📫 Reach me
 
 <p align="left">
-  <a href="mailto:muhammad_22002715@utp.edu.my">📧 muhammad_22002715@utp.edu.my</a><br/>
-  <a href="https://linkedin.com/in/haziq-akmal">💼 linkedin.com/in/haziq-akmal</a>
+  <a href="mailto:itsziq04@gmail.com">📧 itsziq04@gmail.com</a><br/>
+  <a href="https://www.linkedin.com/in/muhammad-haziq-akmal">💼 www.linkedin.com/in/muhammad-haziq-akmal</a>
 </p>
