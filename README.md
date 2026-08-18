@@ -1,53 +1,45 @@
-<h1 align="center">Hi, I'm Haziq 👋</h1>
+# ESG & EMCE Power BI Dashboards — Maxis Broadband Sdn Bhd
 
-<p align="center">
-  <b>Big Data Analytics student | Aspiring Data Analyst & BI Developer</b>
-</p>
+Student Industrial Project (internship) at Maxis Broadband Sdn Bhd. Two Power BI dashboards that turn scattered raw data into centralized, interactive insights: one for ESG (Environmental, Social, Governance) monitoring, and one for EMCE (network performance and customer experience).
 
-<p align="center">
-  <a href="mailto:itsziq04@gmail.com"><img src="https://img.shields.io/badge/Email-itsziq04%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-haziq-akmal"><img src="https://img.shields.io/badge/LinkedIn-muhammad--haziq--akmal-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-Jan%202027-2F9E5B?style=flat" />
-</p>
+## Objectives
 
----
+- Develop an ESG dashboard for monitoring sustainability-related performance indicators.
+- Develop an EMCE dashboard for analyzing mobile network performance and customer experience.
+- Integrate multiple datasets into a centralized, interactive Power BI environment.
+- Support data-driven decision-making through clear, effective visualizations.
 
-### About me
+## Scope
 
-🎓 Final-year **Information Technology** student at **Universiti Teknologi PETRONAS**, majoring in **Big Data Analytics** with a minor in **Corporate Management**. Graduating December 2026.
+- Two dashboards built in Power BI: ESG and EMCE.
+- Simulated datasets created in Microsoft Excel, due to data confidentiality constraints.
+- Data transformation and modeling using Power Query and DAX.
+- Integration with Microsoft Fabric and BigQuery for data storage and processing.
 
-📊 I work with data analysis, business intelligence, and machine learning, turning raw data into insights people can act on. Comfortable with Power BI Desktop and Power BI Service.
+## Methodology
 
-🔭 Looking for a role starting **January 2027** in data analytics, business intelligence, or programming, with a strong interest in **Power BI development, data analysis, big data analytics, and AI/ML**.
+1. **Data Preparation** — created simulated datasets in Excel covering sustainability, network performance, and customer experience KPIs, organized into structured tables.
+2. **Data Transformation** — cleaned and standardized the data with Power Query: consistent column names, formats, and units, with duplicates and missing values handled.
+3. **Data Modeling** — built relationships between tables in the Power BI semantic model and created KPIs with DAX measures.
+4. **Dashboard Development** — designed interactive dashboards with KPI cards, trend lines, bar charts, matrices, tables, maps, slicers, and filters, focused on usability for management and stakeholders.
+5. **Validation** — verified data relationships and DAX measures, tested filtering and drill-throughs, and checked that dashboards represented the intended insights.
 
----
+## What's in this repo
 
-### Tech stack
+| File | Description |
+|---|---|
+| `University - Purpose 1.pbix` | The Power BI file with both the ESG and EMCE dashboards. Open with Power BI Desktop. |
+| `UTP.xlsx` | EMCE dataset: network performance metrics by site (throughput, latency, CSSR, DCR, location, region). |
+| `UTP 1.xlsx` | Supplementary dataset linked to the EMCE model by site ID. |
+| `SIP REPORT.pdf` | Full written project report. |
+| `SIP PRESENTATION.pptx` | Final presentation slide deck. |
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
+## Key results
 
----
+- The ESG dashboard tracks electricity usage, water consumption, and total cost, helping identify high-consumption areas and supporting a shift toward renewable energy.
+- The EMCE dashboard monitors network performance metrics (CSSR, DCR, latency, throughput) in real time, helping teams identify low-performing regions quickly.
+- Centralized dashboards reduced manual reporting effort and improved data accessibility and decision-making efficiency.
 
-### 📌 Featured projects
+## Tools
 
-**Superstore Intelligence Dashboard** — an interactive e-commerce BI dashboard built with Streamlit and Plotly, analyzing 9,983 transactions across four years of sales data. See the `DV` branch for the full project.
-
-**Retail Sales Forecasting Using Customer Purchase Behavior** — a data mining project analyzing 1 million retail transactions to predict customer churn and forecast sales with Random Forest models. See the `DM` branch for the full project.
-
----
-
-### 📫 Reach me
-
-<p align="left">
-  <a href="mailto:itsziq04@gmail.com">📧 itsziq04@gmail.com</a><br/>
-  <a href="https://www.linkedin.com/in/muhammad-haziq-akmal">💼 www.linkedin.com/in/muhammad-haziq-akmal</a>
-</p>
+Power BI (Power Query, DAX), Microsoft Excel, Microsoft Fabric, BigQuery
