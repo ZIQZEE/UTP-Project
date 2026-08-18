@@ -1,43 +1,17 @@
-# Superstore Intelligence Dashboard
+Muhammad Haziq Akmal Bin Hasnol
 
-An interactive e-commerce business intelligence dashboard built with Streamlit and Plotly. It analyzes 9,983 transaction records across four years of sales data to surface trends in sales, profit, and discounting.
+Final-year Information Technology student at Universiti Teknologi PETRONAS, majoring in Big Data Analytics with a minor in Corporate Management. Expected to graduate in December 2026.
 
-## Features
+About
 
-- KPI cards for sales, profit, and order volume
-- Category and region filters with drill-down charts
-- Monthly sales trend chart
-- Profit margin heat map by region and category
-- Parallel coordinate plot for multi-metric comparison
-- State-level sales breakdown
-- Adjustable display modes (Standard, Large Text, Simple View) for accessibility
-- Project progress timeline
+I work with data analysis, business intelligence, and machine learning. I'm skilled in Python, C++, and Visual Basic, with hands-on experience in web development (HTML, CSS, JavaScript, PHP), MySQL, and Power BI.
 
-## Dataset
+I'm looking for a job starting January 2027, in data analytics, business intelligence, or programming, with a strong interest in Power BI development, data analysis, big data analytics, and AI/ML.
 
-`superstore_dataset.csv` contains order-level e-commerce transactions, including order and ship dates, category, region, state, sales, discount, and profit.
+Projects
 
-## How to run
+This repository holds my university coursework projects. Check the branches and folders for individual project details.
 
-1. Clone this repository.
-2. Install the dependencies:
-
-   ```
-   pip install -r requirements.txt
-   ```
-
-3. Run the app:
-
-   ```
-   streamlit run GroupProjectDV.py
-   ```
-
-4. Open the local URL Streamlit prints in your terminal (usually http://localhost:8501).
-
-## Tech stack
-
-Python, Streamlit, Pandas, Plotly
-
-## Project poster
-
-See `DV_Poster.pdf` for the project summary poster.
+Contact
+Email: muhammad_22002715@utp.edu.my
+LinkedIn: linkedin.com/in/haziq-akmal
