@@ -1,22 +1,51 @@
-# Muhammad Haziq Akmal Bin Hasnol
+<h1 align="center">Hi, I'm Haziq 👋</h1>
 
-Final-year Information Technology student at Universiti Teknologi PETRONAS, majoring in Big Data Analytics with a minor in Corporate Management. Expected to graduate in December 2026.
+<p align="center">
+  <b>Big Data Analytics student | Aspiring Data Analyst & BI Developer</b>
+</p>
 
-# About
+<p align="center">
+  <a href="mailto:muhammad_22002715@utp.edu.my"><img src="https://img.shields.io/badge/Email-muhammad__22002715%40utp.edu.my-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/haziq-akmal"><img src="https://img.shields.io/badge/LinkedIn-haziq--akmal-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open%20to-Jan%202027-2F9E5B?style=flat" />
+</p>
 
-I work with data analysis, business intelligence, and machine learning. I'm skilled in Python, C++, and Visual Basic, with hands-on experience in web development (HTML, CSS, JavaScript, PHP), MySQL, and Power BI.
+---
 
-I'm looking for a job starting January 2027, in data analytics, business intelligence, or programming, with a strong interest in Power BI development, data analysis, big data analytics, and AI/ML.
+### About me
 
-# Projects
+🎓 Final-year **Information Technology** student at **Universiti Teknologi PETRONAS**, majoring in **Big Data Analytics** with a minor in **Corporate Management**. Graduating December 2026.
 
-This repository holds my university coursework projects. Check the branches and folders for individual project details.
+📊 I work with data analysis, business intelligence, and machine learning, turning raw data into insights people can act on.
 
+🔭 Looking for a role starting **January 2027** in data analytics, business intelligence, or programming, with a strong interest in **Power BI development, data analysis, big data analytics, and AI/ML**.
 
-# Contact
+---
 
+### Tech stack
 
-Email: itsziq04@gmail.comn
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
 
+---
 
-LinkedIn: linkedin.com/in/haziq-akmal
+### 📌 Featured project
+
+**Superstore Intelligence Dashboard** — an interactive e-commerce BI dashboard built with Streamlit and Plotly, analyzing 9,983 transactions across four years of sales data. See the `DV` branch for the full project.
+
+---
+
+### 📫 Reach me
+
+<p align="left">
+  <a href="mailto:muhammad_22002715@utp.edu.my">📧 muhammad_22002715@utp.edu.my</a><br/>
+  <a href="https://linkedin.com/in/haziq-akmal">💼 linkedin.com/in/haziq-akmal</a>
+</p>
