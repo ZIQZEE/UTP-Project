@@ -1,0 +1,98 @@
+{
+  "name": "FloodGuard Malaysia - Clean",
+  "dataColors": [
+    "#0B5FA5",
+    "#0E8A82",
+    "#E07B39",
+    "#6A4C93",
+    "#4A5A6A",
+    "#2E7D32",
+    "#C2185B",
+    "#78909C"
+  ],
+  "background": "#F7F8FA",
+  "foreground": "#1A2733",
+  "tableAccent": "#0B5FA5",
+  "good": "#2E7D32",
+  "neutral": "#E07B39",
+  "bad": "#C62828",
+  "maximum": "#C62828",
+  "center": "#E07B39",
+  "minimum": "#F7F8FA",
+  "null": "#CBD5E0",
+  "textClasses": {
+    "callout": { "fontSize": 28, "color": "#0B5FA5", "fontFace": "Segoe UI Semibold" },
+    "title": { "fontSize": 16, "color": "#1A2733", "fontFace": "Segoe UI Semibold" },
+    "header": { "fontSize": 12, "color": "#5A6B7A", "fontFace": "Segoe UI" },
+    "label": { "fontSize": 11, "color": "#5A6B7A", "fontFace": "Segoe UI" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": false }],
+        "dropShadow": [{ "show": false }],
+        "title": [
+          { "show": true, "fontColor": { "solid": { "color": "#1A2733" } }, "fontSize": 13, "bold": true, "alignment": "left" }
+        ],
+        "subTitle": [
+          { "fontColor": { "solid": { "color": "#8A96A3" } }, "fontSize": 10 }
+        ],
+        "general": [{ "keepLayerOrder": true }],
+        "visualHeader": [{ "background": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": false }],
+        "labels": [{ "color": { "solid": { "color": "#0B5FA5" } }, "fontSize": 26, "fontFamily": "Segoe UI Semibold" }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#5A6B7A" } }, "fontSize": 11 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E2E6EA" } } }],
+        "header": [{ "show": true, "fontColor": { "solid": { "color": "#5A6B7A" } }, "background": { "solid": { "color": "#FFFFFF" } }, "fontSize": 11 }],
+        "items": [{ "fontColor": { "solid": { "color": "#1A2733" } }, "background": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "grid": [{ "gridVertical": false, "gridHorizontalColor": { "solid": { "color": "#EDEFF2" } }, "rowPadding": 6 }],
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#5A6B7A" } }, "backColor": { "solid": { "color": "#FFFFFF" } }, "fontSize": 11, "bold": true }],
+        "values": [{ "fontColor": { "solid": { "color": "#1A2733" } }, "backColor": { "solid": { "color": "#FFFFFF" } }, "fontSize": 12 }],
+        "total": [{ "fontColor": { "solid": { "color": "#1A2733" } }, "backColor": { "solid": { "color": "#F7F8FA" } }, "bold": true }]
+      }
+    },
+    "pivotTable": {
+      "*": {
+        "grid": [{ "gridVertical": false, "gridHorizontalColor": { "solid": { "color": "#EDEFF2" } }, "rowPadding": 5 }],
+        "columnHeaders": [{ "fontColor": { "solid": { "color": "#5A6B7A" } }, "backColor": { "solid": { "color": "#FFFFFF" } }, "fontSize": 11, "bold": true }],
+        "rowHeaders": [{ "fontColor": { "solid": { "color": "#1A2733" } }, "backColor": { "solid": { "color": "#FFFFFF" } }, "fontSize": 11 }],
+        "values": [{ "fontColor": { "solid": { "color": "#1A2733" } }, "fontSize": 11 }],
+        "subTotals": [{ "fontColor": { "solid": { "color": "#1A2733" } }, "backColor": { "solid": { "color": "#F7F8FA" } }, "bold": true }]
+      }
+    },
+    "shapeMap": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#DCE1E6" } }, "strokeColor": { "solid": { "color": "#FFFFFF" } }, "strokeWidth": 1 }],
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "lineStyles": [{ "strokeWidth": 2, "lineStyle": "solid" }],
+        "categoryAxis": [{ "gridlineColor": { "solid": { "color": "#EDEFF2" } }, "labelColor": { "solid": { "color": "#8A96A3" } }, "fontSize": 10 }],
+        "valueAxis": [{ "gridlineColor": { "solid": { "color": "#EDEFF2" } }, "labelColor": { "solid": { "color": "#8A96A3" } }, "fontSize": 10 }],
+        "legend": [{ "labelColor": { "solid": { "color": "#5A6B7A" } }, "fontSize": 11, "position": "Bottom" }]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [{ "transparency": 100 }]
+      }
+    }
+  }
+}

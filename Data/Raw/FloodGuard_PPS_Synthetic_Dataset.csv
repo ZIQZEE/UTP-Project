@@ -1,0 +1,573 @@
+﻿Report_ID,PPS_Name,District,State,Address,Latitude,Longitude,Water_Level_m,Severity,DateTime,Status,Capacity,Current_Occupancy
+PPS-0001,DEWAN ORANG RAMAI BANDAR BARU,Gua Musang,Kelantan,"755, Jalan Dewan Orang Ramai Bandar Baru, 15792 Gua Musang, Kelantan",4.542518,101.775029,3.32,Tinggi,2023-03-02 00:00,Aktif,308,13
+PPS-0002,PPK TAMAN SETIA,Tanah Merah,Kelantan,"226, Lebuh Ppk Taman Setia, 15703 Tanah Merah, Kelantan",4.838024,102.149884,1.37,Rendah,2023-12-11 08:15,Aktif,440,172
+PPS-0003,SEKOLAH MENENGAH TAMAN CONNAUGHT,Gua Musang,Kelantan,"271, Jalan Sekolah Menengah Taman Connaught, 15847 Gua Musang, Kelantan",4.657668,101.596716,1.62,Sederhana,2020-02-18 09:30,Aktif,410,35
+PPS-0004,BALAIRAYA KAMPUNG NELAYAN,Bachok,Kelantan,"888, Jalan Balairaya Kampung Nelayan, 15489 Bachok, Kelantan",5.624148,102.273068,1.14,Rendah,2021-01-12 11:15,Tidak Aktif,409,36
+PPS-0005,DEWAN ORANG RAMAI GUNUNG RAPAT,Tumpat,Kelantan,"474, Lebuh Dewan Orang Ramai Gunung Rapat, 15376 Tumpat, Kelantan",5.579463,102.03414,5.6,Kritikal,2021-03-22 10:00,Aktif,66,161
+PPS-0006,BALAI RAYA TAMAN CEMPAKA,Pasir Mas,Kelantan,"218, Lebuh Balai Raya Taman Cempaka, 15505 Pasir Mas, Kelantan",4.955159,101.710983,3.46,Tinggi,2022-12-05 07:30,Tidak Aktif,269,298
+PPS-0007,MASJID TAMAN DESA,Pasir Mas,Kelantan,"506, Jalan Masjid Taman Desa, 15873 Pasir Mas, Kelantan",5.115394,102.497326,0.61,Rendah,2023-12-20 02:45,Aktif,289,270
+PPS-0008,SEK KEB TAMAN JAYA,Kuala Krai,Kelantan,"699, Taman Sek Keb Taman Jaya, 15868 Kuala Krai, Kelantan",6.150833,102.36078,1.14,Rendah,2022-11-14 05:45,Aktif,419,134
+PPS-0009,BALAIRAYA BANDAR UTAMA,Tanah Merah,Kelantan,"862, Taman Balairaya Bandar Utama, 15723 Tanah Merah, Kelantan",5.795336,102.007682,0.87,Rendah,2024-12-25 16:00,Aktif,300,9
+PPS-0010,PUSAT KOMUNITI BUKIT TINGGI,Gua Musang,Kelantan,"60, Lorong Pusat Komuniti Bukit Tinggi, 15999 Gua Musang, Kelantan",6.079468,102.378722,1.58,Sederhana,2020-02-25 17:15,Aktif,293,281
+PPS-0011,SURAU FELDA PALONG,Jeli,Kelantan,"952, Taman Surau Felda Palong, 15873 Jeli, Kelantan",4.950596,102.372433,2.8,Tinggi,2023-01-22 20:30,Aktif,314,231
+PPS-0012,SEK KEB BANDAR KINRARA,Gua Musang,Kelantan,"568, Lorong Sek Keb Bandar Kinrara, 15702 Gua Musang, Kelantan",4.92144,101.564026,0.57,Rendah,2021-11-03 01:30,Aktif,171,142
+PPS-0013,BALAI RAYA KAMPUNG CHERAS,Pasir Puteh,Kelantan,"485, Lorong Balai Raya Kampung Cheras, 15903 Pasir Puteh, Kelantan",4.864203,101.632312,1.91,Sederhana,2020-11-22 13:30,Aktif,289,27
+PPS-0014,BALAIRAYA BUKIT TINGGI,Gua Musang,Kelantan,"197, Lorong Balairaya Bukit Tinggi, 15649 Gua Musang, Kelantan",4.603042,102.228214,1.92,Sederhana,2023-01-08 02:45,Tidak Aktif,488,281
+PPS-0015,SEK KEB KUALA LUMPUR,Gua Musang,Kelantan,"949, Lorong Sek Keb Kuala Lumpur, 15270 Gua Musang, Kelantan",4.586,102.499282,1.98,Sederhana,2020-02-06 12:00,Tidak Aktif,185,232
+PPS-0016,PPK KAMPUNG KERINCHI,Kuala Krai,Kelantan,"159, Lorong Ppk Kampung Kerinchi, 15403 Kuala Krai, Kelantan",5.219113,102.457318,0.56,Rendah,2020-03-24 10:00,Aktif,294,257
+PPS-0017,BALAIRAYA SIMPANG LIMA,Tanah Merah,Kelantan,"71, Taman Balairaya Simpang Lima, 15169 Tanah Merah, Kelantan",4.767636,102.460779,1.74,Sederhana,2024-11-08 18:00,Tidak Aktif,264,298
+PPS-0018,DEWAN ORANG RAMAI TAMAN CEMPAKA,Tumpat,Kelantan,"245, Persiaran Dewan Orang Ramai Taman Cempaka, 15505 Tumpat, Kelantan",5.388731,102.434706,1.15,Rendah,2022-02-25 02:00,Aktif,338,51
+PPS-0019,MASJID KAMPUNG PARIT,Gua Musang,Kelantan,"903, Jalan Masjid Kampung Parit, 15350 Gua Musang, Kelantan",5.413978,102.005885,1.66,Sederhana,2022-03-20 20:00,Tidak Aktif,333,153
+PPS-0020,BALAIRAYA SERI KEMBANGAN,Gua Musang,Kelantan,"761, Taman Balairaya Seri Kembangan, 15259 Gua Musang, Kelantan",6.096181,101.634291,1.1,Rendah,2021-01-22 20:30,Aktif,178,26
+PPS-0021,SEK KEB TANJUNG PUTERI,Gua Musang,Kelantan,"342, Lorong Sek Keb Tanjung Puteri, 15752 Gua Musang, Kelantan",5.578284,102.329348,4.4,Kritikal,2024-02-23 13:00,Aktif,403,76
+PPS-0022,PPK PAYA BESAR,Tanah Merah,Kelantan,"441, Lorong Ppk Paya Besar, 15142 Tanah Merah, Kelantan",4.561248,101.869216,1.4,Rendah,2022-11-07 21:15,Tidak Aktif,231,286
+PPS-0023,DEWAN ORANG RAMAI GUNUNG RAPAT,Pasir Mas,Kelantan,"820, Lorong Dewan Orang Ramai Gunung Rapat, 15522 Pasir Mas, Kelantan",6.155523,102.249478,1.24,Rendah,2023-01-26 21:15,Aktif,453,55
+PPS-0024,DEWAN ORANG RAMAI TAMAN MAJU,Pasir Mas,Kelantan,"837, Lebuh Dewan Orang Ramai Taman Maju, 15458 Pasir Mas, Kelantan",5.982684,102.358593,1.3,Rendah,2021-12-01 21:15,Aktif,192,35
+PPS-0025,PPK KAWASAN BARU,Kuala Krai,Kelantan,"962, Jalan Ppk Kawasan Baru, 15218 Kuala Krai, Kelantan",5.096948,102.009406,2.89,Tinggi,2022-03-02 03:45,Aktif,452,160
+PPS-0026,SURAU KAMPUNG CHERAS,Pasir Mas,Kelantan,"195, Persiaran Surau Kampung Cheras, 15145 Pasir Mas, Kelantan",5.530555,102.011423,2.5,Tinggi,2021-03-12 13:00,Tidak Aktif,219,160
+PPS-0027,PUSAT KOMUNITI TAMAN SETIA,Gua Musang,Kelantan,"335, Lebuh Pusat Komuniti Taman Setia, 15813 Gua Musang, Kelantan",5.723582,101.800322,0.63,Rendah,2023-02-22 23:15,Tidak Aktif,204,207
+PPS-0028,DEWAN ORANG RAMAI SRI ANDALAS,Tanah Merah,Kelantan,"805, Taman Dewan Orang Ramai Sri Andalas, 15721 Tanah Merah, Kelantan",5.917333,101.803875,1.96,Sederhana,2021-02-17 15:15,Tidak Aktif,195,263
+PPS-0029,DEWAN ORANG RAMAI BANDAR UTAMA,Tumpat,Kelantan,"231, Lorong Dewan Orang Ramai Bandar Utama, 15250 Tumpat, Kelantan",5.06982,102.318423,0.74,Rendah,2024-02-28 02:45,Aktif,372,294
+PPS-0030,SURAU BUKIT TINGGI,Kota Bharu,Kelantan,"152, Jalan Surau Bukit Tinggi, 15868 Kota Bharu, Kelantan",5.721188,101.883978,3.83,Tinggi,2021-02-06 22:45,Aktif,177,62
+PPS-0031,PPK TAMAN MEGAH,Pasir Puteh,Kelantan,"610, Persiaran Ppk Taman Megah, 15873 Pasir Puteh, Kelantan",4.726676,101.964643,3.42,Tinggi,2023-03-27 17:45,Tidak Aktif,430,243
+PPS-0032,PUSAT KOMUNITI KAMPUNG ATTAP,Pasir Puteh,Kelantan,"497, Lorong Pusat Komuniti Kampung Attap, 15381 Pasir Puteh, Kelantan",4.940626,101.74724,2.21,Sederhana,2022-12-11 10:00,Aktif,168,196
+PPS-0033,SURAU KAWASAN BARU,Jeli,Kelantan,"556, Lebuh Surau Kawasan Baru, 15525 Jeli, Kelantan",5.700913,101.564229,1.33,Rendah,2024-02-23 00:45,Aktif,230,152
+PPS-0034,SURAU SRI PETALING,Pasir Mas,Kelantan,"766, Taman Surau Sri Petaling, 15919 Pasir Mas, Kelantan",5.950862,102.45343,1.72,Sederhana,2022-12-14 15:00,Aktif,392,207
+PPS-0035,BALAI RAYA SRI PETALING,Jeli,Kelantan,"28, Lebuh Balai Raya Sri Petaling, 15706 Jeli, Kelantan",5.92886,102.419542,1.53,Sederhana,2021-02-28 14:15,Aktif,244,167
+PPS-0036,SURAU SRI GOMBAK,Kota Bharu,Kelantan,"771, Lebuh Surau Sri Gombak, 15358 Kota Bharu, Kelantan",5.272989,101.837501,3.21,Tinggi,2020-03-12 07:00,Tidak Aktif,383,20
+PPS-0037,SEK KEB WANGSA MAJU,Bachok,Kelantan,"157, Lorong Sek Keb Wangsa Maju, 15229 Bachok, Kelantan",6.11434,101.699361,1.61,Sederhana,2023-12-23 08:30,Aktif,360,58
+PPS-0038,SEK KEB BANDAR UTAMA,Jeli,Kelantan,"590, Lebuh Sek Keb Bandar Utama, 15506 Jeli, Kelantan",6.140025,101.608099,4.5,Kritikal,2021-03-04 22:30,Tidak Aktif,357,61
+PPS-0039,SURAU TANJUNG BIDARA,Tumpat,Kelantan,"71, Taman Surau Tanjung Bidara, 15763 Tumpat, Kelantan",5.83048,101.847204,1.35,Rendah,2020-02-14 11:45,Tidak Aktif,272,90
+PPS-0040,PPK BUKIT RAHMAN,Tanah Merah,Kelantan,"477, Lebuh Ppk Bukit Rahman, 15945 Tanah Merah, Kelantan",6.141305,101.770082,2.9,Tinggi,2020-12-09 14:15,Tidak Aktif,341,194
+PPS-0041,MASJID KAMPUNG KERINCHI,Machang,Kelantan,"218, Persiaran Masjid Kampung Kerinchi, 15916 Machang, Kelantan",4.54879,102.350953,0.78,Rendah,2022-03-18 00:15,Aktif,418,208
+PPS-0042,DEWAN SERBAGUNA KAMPUNG KERINCHI,Pasir Puteh,Kelantan,"459, Jalan Dewan Serbaguna Kampung Kerinchi, 15195 Pasir Puteh, Kelantan",5.4438,101.740324,0.9,Rendah,2022-12-22 18:30,Aktif,321,176
+PPS-0043,SEKOLAH MENENGAH GOMBAK SETIA,Pasir Mas,Kelantan,"278, Persiaran Sekolah Menengah Gombak Setia, 15357 Pasir Mas, Kelantan",6.194273,102.050388,1.22,Rendah,2020-01-24 17:15,Aktif,428,247
+PPS-0044,PPK TAMAN CONNAUGHT,Kuala Krai,Kelantan,"290, Jalan Ppk Taman Connaught, 15952 Kuala Krai, Kelantan",5.731795,102.476607,0.73,Rendah,2022-12-01 22:15,Aktif,77,283
+PPS-0045,DEWAN SERBAGUNA SERI KEMBANGAN,Kuala Krai,Kelantan,"894, Jalan Dewan Serbaguna Seri Kembangan, 15687 Kuala Krai, Kelantan",5.68561,101.626279,0.98,Rendah,2021-01-02 08:45,Aktif,83,205
+PPS-0046,BALAIRAYA PAYA BESAR,Dungun,Terengganu,"831, Taman Balairaya Paya Besar, 21411 Dungun, Terengganu",5.011744,103.186451,0.75,Rendah,2023-03-20 19:15,Tidak Aktif,244,230
+PPS-0047,SEKOLAH BANDAR UTAMA,Setiu,Terengganu,"583, Taman Sekolah Bandar Utama, 21161 Setiu, Terengganu",4.424442,103.088525,2.24,Sederhana,2021-12-09 21:00,Aktif,138,282
+PPS-0048,GELANGGANG BUKIT RAHMAN,Dungun,Terengganu,"299, Jalan Gelanggang Bukit Rahman, 21337 Dungun, Terengganu",4.128718,102.908518,0.78,Rendah,2020-02-22 07:30,Tidak Aktif,370,101
+PPS-0049,BALAIRAYA SRI GOMBAK,Marang,Terengganu,"847, Lorong Balairaya Sri Gombak, 21173 Marang, Terengganu",4.04103,102.724809,1.29,Rendah,2024-03-10 14:00,Aktif,205,206
+PPS-0050,MASJID TAMAN CONNAUGHT,Kuala Nerus,Terengganu,"41, Lebuh Masjid Taman Connaught, 21852 Kuala Nerus, Terengganu",4.850992,102.993795,0.75,Rendah,2021-11-22 18:00,Tidak Aktif,394,137
+PPS-0051,PUSAT KOMUNITI KAMPUNG PANDAN,Besut,Terengganu,"939, Persiaran Pusat Komuniti Kampung Pandan, 21285 Besut, Terengganu",5.402529,102.675191,5.09,Kritikal,2020-02-16 11:45,Aktif,393,53
+PPS-0052,BALAI SERBAGUNA KAMPUNG JAWA,Hulu Terengganu,Terengganu,"834, Taman Balai Serbaguna Kampung Jawa, 21137 Hulu Terengganu, Terengganu",4.492588,103.193674,1.81,Sederhana,2020-01-25 12:00,Tidak Aktif,327,236
+PPS-0053,GELANGGANG KAMPUNG KERINCHI,Marang,Terengganu,"641, Lebuh Gelanggang Kampung Kerinchi, 21878 Marang, Terengganu",3.913829,103.018439,0.77,Rendah,2022-12-15 22:45,Aktif,372,122
+PPS-0054,SEKOLAH KUALA LUMPUR,Hulu Terengganu,Terengganu,"231, Jalan Sekolah Kuala Lumpur, 21572 Hulu Terengganu, Terengganu",4.452575,102.513674,5.62,Kritikal,2023-12-23 09:30,Aktif,297,241
+PPS-0055,DEWAN PERPUSTAKAAN TAMAN CONNAUGHT,Kemaman,Terengganu,"521, Lorong Dewan Perpustakaan Taman Connaught, 21984 Kemaman, Terengganu",4.759252,102.644642,1.27,Rendah,2022-02-26 16:30,Tidak Aktif,194,152
+PPS-0056,DEWAN KAMPUNG PARIT,Setiu,Terengganu,"341, Taman Dewan Kampung Parit, 21881 Setiu, Terengganu",5.617047,102.946547,1.96,Sederhana,2021-01-23 07:45,Aktif,447,210
+PPS-0057,SEKOLAH BATU PAHAT,Besut,Terengganu,"680, Lorong Sekolah Batu Pahat, 21607 Besut, Terengganu",4.46817,102.972976,4.32,Kritikal,2022-03-28 03:45,Aktif,283,7
+PPS-0058,BALAIRAYA PADANG BESAR,Hulu Terengganu,Terengganu,"481, Persiaran Balairaya Padang Besar, 21446 Hulu Terengganu, Terengganu",4.660955,103.154781,1.9,Sederhana,2022-11-28 21:45,Tidak Aktif,370,249
+PPS-0059,BALAI SERBAGUNA KAMPUNG NELAYAN,Besut,Terengganu,"765, Jalan Balai Serbaguna Kampung Nelayan, 21544 Besut, Terengganu",5.096665,102.73477,5.9,Kritikal,2023-11-06 22:30,Tidak Aktif,73,166
+PPS-0060,BALAIRAYA BUKIT TINGGI,Besut,Terengganu,"544, Lebuh Balairaya Bukit Tinggi, 21679 Besut, Terengganu",4.416072,102.874841,1.68,Sederhana,2020-12-20 12:15,Aktif,348,73
+PPS-0061,BALAI SERBAGUNA TANJUNG PUTERI,Kemaman,Terengganu,"921, Lebuh Balai Serbaguna Tanjung Puteri, 21394 Kemaman, Terengganu",4.768415,102.753977,1.66,Sederhana,2022-02-19 09:45,Tidak Aktif,283,154
+PPS-0062,MASJID BUKIT TINGGI,Kemaman,Terengganu,"391, Taman Masjid Bukit Tinggi, 21467 Kemaman, Terengganu",5.898684,103.353335,2.49,Sederhana,2020-01-27 21:45,Aktif,339,25
+PPS-0063,DEWAN PERPUSTAKAAN TAMAN CONNAUGHT,Setiu,Terengganu,"822, Persiaran Dewan Perpustakaan Taman Connaught, 21324 Setiu, Terengganu",5.548962,103.402935,2.12,Sederhana,2020-12-21 20:00,Aktif,275,17
+PPS-0064,BALAI SERBAGUNA TAMAN CEMPAKA,Kuala Terengganu,Terengganu,"766, Lebuh Balai Serbaguna Taman Cempaka, 21279 Kuala Terengganu, Terengganu",5.337956,102.590133,1.29,Rendah,2024-01-17 08:15,Aktif,472,246
+PPS-0065,MASJID GOMBAK SETIA,Kuala Nerus,Terengganu,"987, Jalan Masjid Gombak Setia, 21244 Kuala Nerus, Terengganu",5.367775,102.838715,2.84,Tinggi,2024-02-12 02:45,Aktif,324,63
+PPS-0066,BALAI SERBAGUNA BANDAR KINRARA,Setiu,Terengganu,"391, Persiaran Balai Serbaguna Bandar Kinrara, 21210 Setiu, Terengganu",4.57403,103.249012,1.97,Sederhana,2024-03-11 19:15,Tidak Aktif,375,237
+PPS-0067,SK KAMPUNG BARU,Kuala Nerus,Terengganu,"312, Lebuh Sk Kampung Baru, 21218 Kuala Nerus, Terengganu",5.163403,102.616676,1.39,Rendah,2023-12-15 11:45,Aktif,422,79
+PPS-0068,GELANGGANG TAMAN SETIA,Marang,Terengganu,"962, Persiaran Gelanggang Taman Setia, 21133 Marang, Terengganu",5.175336,103.333693,1.72,Sederhana,2021-02-28 11:00,Tidak Aktif,238,278
+PPS-0069,MASJID GOMBAK SETIA,Kuala Terengganu,Terengganu,"94, Lorong Masjid Gombak Setia, 21757 Kuala Terengganu, Terengganu",3.927155,102.775881,2.47,Sederhana,2022-11-08 04:15,Aktif,441,283
+PPS-0070,DEWAN PERPUSTAKAAN KAWASAN BARU,Kemaman,Terengganu,"793, Lorong Dewan Perpustakaan Kawasan Baru, 21907 Kemaman, Terengganu",5.031404,103.313053,4.01,Kritikal,2021-12-18 08:15,Aktif,493,13
+PPS-0071,DEWAN PERPUSTAKAAN BANDAR KINRARA,Hulu Terengganu,Terengganu,"332, Jalan Dewan Perpustakaan Bandar Kinrara, 21278 Hulu Terengganu, Terengganu",3.831207,103.289985,0.63,Rendah,2024-02-04 23:00,Aktif,448,185
+PPS-0072,GELANGGANG KAMPUNG BARU,Dungun,Terengganu,"745, Taman Gelanggang Kampung Baru, 21408 Dungun, Terengganu",4.749211,102.72155,2.46,Sederhana,2023-11-28 12:45,Tidak Aktif,301,227
+PPS-0073,BALAIRAYA PADANG BESAR,Dungun,Terengganu,"130, Persiaran Balairaya Padang Besar, 21739 Dungun, Terengganu",5.68846,102.822112,2.05,Sederhana,2023-01-20 16:30,Aktif,359,220
+PPS-0074,PUSAT KOMUNITI FELDA PALONG,Dungun,Terengganu,"441, Lebuh Pusat Komuniti Felda Palong, 21333 Dungun, Terengganu",5.465502,102.614414,2.33,Sederhana,2023-02-24 03:30,Aktif,390,130
+PPS-0075,DEWAN PADANG BESAR,Kuala Terengganu,Terengganu,"94, Jalan Dewan Padang Besar, 21195 Kuala Terengganu, Terengganu",5.802544,103.186821,2.24,Sederhana,2021-01-18 01:30,Tidak Aktif,260,181
+PPS-0076,BALAI SERBAGUNA TAMAN CONNAUGHT,Marang,Terengganu,"320, Persiaran Balai Serbaguna Taman Connaught, 21206 Marang, Terengganu",5.622994,103.221061,1.71,Sederhana,2021-02-28 03:30,Tidak Aktif,238,58
+PPS-0077,PUSAT KOMUNITI WANGSA MAJU,Kuala Nerus,Terengganu,"629, Taman Pusat Komuniti Wangsa Maju, 21126 Kuala Nerus, Terengganu",5.00561,103.307221,2.16,Sederhana,2020-01-06 08:30,Tidak Aktif,229,3
+PPS-0078,SEKOLAH PADANG BESAR,Hulu Terengganu,Terengganu,"146, Jalan Sekolah Padang Besar, 21193 Hulu Terengganu, Terengganu",5.626712,103.066321,2.82,Tinggi,2023-02-11 05:30,Aktif,216,290
+PPS-0079,GELANGGANG TELUK INTAN,Dungun,Terengganu,"691, Jalan Gelanggang Teluk Intan, 21378 Dungun, Terengganu",5.655019,102.65558,1.92,Sederhana,2023-03-14 08:15,Tidak Aktif,108,176
+PPS-0080,GELANGGANG KAMPUNG KERINCHI,Marang,Terengganu,"540, Persiaran Gelanggang Kampung Kerinchi, 21146 Marang, Terengganu",4.032869,103.178218,1.48,Rendah,2020-11-07 09:15,Tidak Aktif,441,130
+PPS-0081,SEKOLAH SIMPANG LIMA,Kuala Nerus,Terengganu,"133, Lebuh Sekolah Simpang Lima, 21645 Kuala Nerus, Terengganu",4.489057,102.50773,3.25,Tinggi,2020-01-13 23:00,Aktif,285,39
+PPS-0082,SEKOLAH KAMPUNG MEDAN,Kuala Terengganu,Terengganu,"118, Lebuh Sekolah Kampung Medan, 21121 Kuala Terengganu, Terengganu",5.009094,103.0734,4.43,Kritikal,2023-03-27 22:30,Aktif,482,54
+PPS-0083,MASJID KAMPUNG JAWA,Kemaman,Terengganu,"892, Persiaran Masjid Kampung Jawa, 21863 Kemaman, Terengganu",4.714921,102.90045,0.83,Rendah,2020-12-17 20:00,Aktif,149,178
+PPS-0084,BALAIRAYA BUKIT TINGGI,Kuala Terengganu,Terengganu,"106, Lorong Balairaya Bukit Tinggi, 21362 Kuala Terengganu, Terengganu",5.327496,103.318949,1.1,Rendah,2021-11-25 20:45,Aktif,338,296
+PPS-0085,GELANGGANG TAMAN CEMPAKA,Setiu,Terengganu,"885, Persiaran Gelanggang Taman Cempaka, 21254 Setiu, Terengganu",5.23038,103.382048,1.97,Sederhana,2022-01-19 01:30,Aktif,208,236
+PPS-0086,DEWAN KOMUNITI KUALA LUMPUR,Gombak,Selangor,"630, Taman Dewan Komuniti Kuala Lumpur, 40619 Gombak, Selangor",2.768268,101.831697,2.08,Sederhana,2023-11-26 18:15,Aktif,293,256
+PPS-0087,SEKOLAH MENENGAH KUALA LUMPUR,Hulu Selangor,Selangor,"517, Lorong Sekolah Menengah Kuala Lumpur, 40140 Hulu Selangor, Selangor",3.849267,101.450523,0.94,Rendah,2024-02-17 19:15,Aktif,194,198
+PPS-0088,SEKOLAH KEBANGSAAN KAWASAN BARU,Petaling,Selangor,"68, Persiaran Sekolah Kebangsaan Kawasan Baru, 40196 Petaling, Selangor",3.629358,101.678898,1.89,Sederhana,2024-01-28 04:30,Aktif,389,72
+PPS-0089,DEWAN ORANG RAMAI BANDAR BARU,Kuala Selangor,Selangor,"610, Jalan Dewan Orang Ramai Bandar Baru, 40417 Kuala Selangor, Selangor",3.072278,101.656055,2.14,Sederhana,2021-01-22 22:00,Tidak Aktif,266,260
+PPS-0090,BALAI RAYA KAWASAN BARU,Kuala Selangor,Selangor,"971, Lebuh Balai Raya Kawasan Baru, 40296 Kuala Selangor, Selangor",2.721877,101.308866,0.64,Rendah,2022-11-28 03:00,Tidak Aktif,498,67
+PPS-0091,PUSAT AKTIVITI GUNUNG RAPAT,Petaling,Selangor,"739, Lebuh Pusat Aktiviti Gunung Rapat, 40144 Petaling, Selangor",2.885103,101.180846,2.18,Sederhana,2023-12-20 09:45,Aktif,172,158
+PPS-0092,PUSAT AKTIVITI KAMPUNG PANDAN,Sabak Bernam,Selangor,"473, Persiaran Pusat Aktiviti Kampung Pandan, 40896 Sabak Bernam, Selangor",3.784769,101.194016,2.03,Sederhana,2021-12-26 19:15,Tidak Aktif,76,246
+PPS-0093,BALAIRAYA TAMAN JAYA,Kuala Selangor,Selangor,"292, Jalan Balairaya Taman Jaya, 40881 Kuala Selangor, Selangor",3.365449,101.10259,0.95,Rendah,2021-03-27 13:00,Tidak Aktif,163,230
+PPS-0094,DEWAN ORANG RAMAI TAMAN DESA,Kuala Selangor,Selangor,"383, Lorong Dewan Orang Ramai Taman Desa, 40495 Kuala Selangor, Selangor",3.816566,101.414897,4.94,Kritikal,2022-11-04 22:30,Tidak Aktif,120,19
+PPS-0095,MASJID BUKIT RAHMAN,Kuala Langat,Selangor,"460, Taman Masjid Bukit Rahman, 40105 Kuala Langat, Selangor",3.800875,101.472455,4.05,Kritikal,2021-12-18 23:45,Aktif,197,121
+PPS-0096,PUSAT AKTIVITI GOMBAK SETIA,Kuala Langat,Selangor,"65, Jalan Pusat Aktiviti Gombak Setia, 40956 Kuala Langat, Selangor",2.846218,101.23844,5.49,Kritikal,2024-11-19 07:15,Aktif,50,180
+PPS-0097,DEWAN KOMUNITI KAMPUNG ATTAP,Klang,Selangor,"999, Persiaran Dewan Komuniti Kampung Attap, 40169 Klang, Selangor",3.384796,101.187314,5.36,Kritikal,2024-03-01 12:45,Aktif,248,191
+PPS-0098,DEWAN KOMUNITI KAMPUNG PARIT,Kuala Langat,Selangor,"247, Jalan Dewan Komuniti Kampung Parit, 40890 Kuala Langat, Selangor",3.59678,101.357094,2.26,Sederhana,2020-12-12 17:30,Tidak Aktif,139,237
+PPS-0099,DEWAN KOMUNITI GOMBAK SETIA,Sabak Bernam,Selangor,"38, Persiaran Dewan Komuniti Gombak Setia, 40306 Sabak Bernam, Selangor",3.458083,101.811498,0.7,Rendah,2022-11-10 16:45,Tidak Aktif,328,242
+PPS-0100,PUSAT KOMUNITI KAMPUNG PARIT,Kuala Langat,Selangor,"883, Jalan Pusat Komuniti Kampung Parit, 40986 Kuala Langat, Selangor",2.743945,101.6469,1.77,Sederhana,2023-01-13 23:45,Tidak Aktif,247,173
+PPS-0101,BALAIRAYA SRI GOMBAK,Hulu Selangor,Selangor,"821, Jalan Balairaya Sri Gombak, 40844 Hulu Selangor, Selangor",3.295444,101.497523,1.93,Sederhana,2024-12-10 10:00,Aktif,388,151
+PPS-0102,MASJID KAMPUNG PANDAN,Kuala Langat,Selangor,"360, Lebuh Masjid Kampung Pandan, 40143 Kuala Langat, Selangor",3.235099,101.717663,3.87,Tinggi,2023-03-09 20:00,Aktif,376,207
+PPS-0103,MASJID BUKIT MERAH,Kuala Selangor,Selangor,"147, Taman Masjid Bukit Merah, 40794 Kuala Selangor, Selangor",3.315703,101.749898,2.55,Tinggi,2021-11-25 20:30,Aktif,340,16
+PPS-0104,SEKOLAH MENENGAH KAMPUNG PANDAN,Hulu Selangor,Selangor,"782, Jalan Sekolah Menengah Kampung Pandan, 40687 Hulu Selangor, Selangor",3.514874,101.948824,0.87,Rendah,2022-01-08 03:00,Tidak Aktif,305,265
+PPS-0105,PUSAT KOMUNITI KAMPUNG PANDAN,Petaling,Selangor,"220, Taman Pusat Komuniti Kampung Pandan, 40392 Petaling, Selangor",3.796251,101.117761,2.5,Sederhana,2020-12-05 02:45,Aktif,415,227
+PPS-0106,SEKOLAH MENENGAH KAMPUNG PARIT,Hulu Langat,Selangor,"727, Jalan Sekolah Menengah Kampung Parit, 40663 Hulu Langat, Selangor",3.672616,101.967561,2.39,Sederhana,2021-12-26 11:15,Aktif,152,71
+PPS-0107,BALAIRAYA KAMPUNG CHERAS,Klang,Selangor,"378, Lebuh Balairaya Kampung Cheras, 40922 Klang, Selangor",3.648448,101.026284,4.32,Kritikal,2020-11-10 12:45,Aktif,443,209
+PPS-0108,DEWAN KOMUNITI KAMPUNG PANDAN,Hulu Langat,Selangor,"478, Taman Dewan Komuniti Kampung Pandan, 40452 Hulu Langat, Selangor",2.850392,101.317028,1.33,Rendah,2024-03-06 04:45,Aktif,494,28
+PPS-0109,MASJID TAMAN CEMPAKA,Hulu Langat,Selangor,"958, Lorong Masjid Taman Cempaka, 40454 Hulu Langat, Selangor",3.321723,101.304125,5.3,Kritikal,2020-01-09 06:30,Aktif,205,273
+PPS-0110,PUSAT AKTIVITI PAYA BESAR,Hulu Langat,Selangor,"176, Taman Pusat Aktiviti Paya Besar, 40837 Hulu Langat, Selangor",3.303088,101.168636,4.84,Kritikal,2020-03-27 00:00,Aktif,378,295
+PPS-0111,DEWAN ORANG RAMAI WANGSA MAJU,Kuala Langat,Selangor,"655, Jalan Dewan Orang Ramai Wangsa Maju, 40609 Kuala Langat, Selangor",3.481356,101.766959,3.32,Tinggi,2023-01-08 21:45,Aktif,87,30
+PPS-0112,BALAI RAYA KAWASAN BARU,Hulu Selangor,Selangor,"622, Lorong Balai Raya Kawasan Baru, 40420 Hulu Selangor, Selangor",3.227527,101.484251,2.98,Tinggi,2023-01-05 11:00,Aktif,288,62
+PPS-0113,SEKOLAH KEBANGSAAN KAMPUNG MEDAN,Kuala Langat,Selangor,"969, Lebuh Sekolah Kebangsaan Kampung Medan, 40984 Kuala Langat, Selangor",3.239515,101.140878,1.75,Sederhana,2022-12-19 23:30,Aktif,131,255
+PPS-0114,KOMPLEKS SUKAN BUKIT MERAH,Sepang,Selangor,"93, Lebuh Kompleks Sukan Bukit Merah, 40617 Sepang, Selangor",3.260178,101.879076,1.74,Sederhana,2022-03-02 01:30,Aktif,481,240
+PPS-0115,DEWAN ORANG RAMAI BANDAR BARU,Kuala Langat,Selangor,"904, Persiaran Dewan Orang Ramai Bandar Baru, 40844 Kuala Langat, Selangor",3.344029,101.847172,1.9,Sederhana,2023-11-02 18:15,Aktif,197,37
+PPS-0116,PUSAT KOMUNITI WANGSA MAJU,Petaling,Selangor,"697, Taman Pusat Komuniti Wangsa Maju, 40221 Petaling, Selangor",3.305107,101.764404,0.6,Rendah,2022-01-18 11:15,Aktif,310,205
+PPS-0117,SEKOLAH MENENGAH BUKIT RAHMAN,Sepang,Selangor,"532, Lebuh Sekolah Menengah Bukit Rahman, 40252 Sepang, Selangor",2.748306,101.038914,2.02,Sederhana,2024-01-11 05:45,Tidak Aktif,428,153
+PPS-0118,KOMPLEKS SUKAN KAMPUNG CHERAS,Kuala Selangor,Selangor,"307, Lebuh Kompleks Sukan Kampung Cheras, 40935 Kuala Selangor, Selangor",3.308778,101.509714,0.83,Rendah,2023-11-19 09:00,Aktif,185,296
+PPS-0119,MASJID KAMPUNG ATTAP,Klang,Selangor,"645, Taman Masjid Kampung Attap, 40893 Klang, Selangor",3.56568,101.583523,2.72,Tinggi,2020-12-19 22:00,Aktif,275,160
+PPS-0120,DEWAN ORANG RAMAI TAMAN DESA,Petaling,Selangor,"794, Taman Dewan Orang Ramai Taman Desa, 40582 Petaling, Selangor",2.881718,101.6905,3.6,Tinggi,2021-11-17 06:30,Tidak Aktif,294,269
+PPS-0121,BALAIRAYA KAWASAN BARU,Petaling,Selangor,"560, Persiaran Balairaya Kawasan Baru, 40792 Petaling, Selangor",3.076503,101.173182,3.58,Tinggi,2024-01-16 06:15,Aktif,202,115
+PPS-0122,KOMPLEKS SUKAN TAMAN CEMPAKA,Kuala Langat,Selangor,"492, Persiaran Kompleks Sukan Taman Cempaka, 40673 Kuala Langat, Selangor",3.625409,101.704901,5.99,Kritikal,2022-01-04 18:45,Tidak Aktif,252,176
+PPS-0123,DEWAN KOMUNITI KAMPUNG PARIT,Hulu Selangor,Selangor,"947, Lebuh Dewan Komuniti Kampung Parit, 40771 Hulu Selangor, Selangor",3.048543,101.28763,0.98,Rendah,2024-12-09 17:30,Aktif,365,300
+PPS-0124,BALAIRAYA KAMPUNG NELAYAN,Klang,Selangor,"654, Lorong Balairaya Kampung Nelayan, 40153 Klang, Selangor",2.99095,101.669834,0.83,Rendah,2020-02-22 04:00,Tidak Aktif,130,208
+PPS-0125,BALAIRAYA TAMAN CEMPAKA,Segamat,Johor,"293, Jalan Balairaya Taman Cempaka, 80887 Segamat, Johor",2.016173,102.898912,1.07,Rendah,2020-03-06 13:15,Tidak Aktif,68,203
+PPS-0126,BALAIRAYA KAMPUNG BARU,Segamat,Johor,"10, Persiaran Balairaya Kampung Baru, 80681 Segamat, Johor",1.579467,103.998006,2.43,Sederhana,2022-01-15 20:45,Tidak Aktif,118,258
+PPS-0127,PUSAT KOMUNITI GUNUNG RAPAT,Segamat,Johor,"749, Lebuh Pusat Komuniti Gunung Rapat, 80763 Segamat, Johor",1.709256,104.117628,0.69,Rendah,2022-01-19 21:15,Aktif,488,207
+PPS-0128,SMK SIMPANG LIMA,Pontian,Johor,"144, Lebuh Smk Simpang Lima, 80431 Pontian, Johor",2.072921,102.673476,4.02,Kritikal,2021-02-15 08:30,Aktif,420,293
+PPS-0129,DEWAN TELUK INTAN,Batu Pahat,Johor,"684, Jalan Dewan Teluk Intan, 80576 Batu Pahat, Johor",1.69233,103.219104,0.91,Rendah,2022-03-23 03:30,Aktif,163,112
+PPS-0130,KOMPLEKS TANJUNG BIDARA,Kluang,Johor,"426, Taman Kompleks Tanjung Bidara, 80582 Kluang, Johor",2.017273,103.409957,3.7,Tinggi,2021-12-22 19:00,Aktif,320,185
+PPS-0131,SURAU TAMAN DESA,Johor Bahru,Johor,"208, Taman Surau Taman Desa, 80649 Johor Bahru, Johor",2.675867,102.724418,0.83,Rendah,2023-03-04 21:15,Tidak Aktif,300,46
+PPS-0132,MASJID TAMAN DESA,Tangkak,Johor,"426, Lebuh Masjid Taman Desa, 80677 Tangkak, Johor",1.968224,102.611272,0.96,Rendah,2020-01-13 08:00,Tidak Aktif,346,37
+PPS-0133,SURAU TELUK INTAN,Batu Pahat,Johor,"958, Jalan Surau Teluk Intan, 80583 Batu Pahat, Johor",1.935546,103.90077,0.91,Rendah,2023-12-12 12:45,Tidak Aktif,243,192
+PPS-0134,SURAU BANDAR BARU,Johor Bahru,Johor,"670, Persiaran Surau Bandar Baru, 80221 Johor Bahru, Johor",2.324096,103.823585,1.04,Rendah,2021-03-24 07:00,Tidak Aktif,202,237
+PPS-0135,DEWAN BUKIT TINGGI,Tangkak,Johor,"472, Persiaran Dewan Bukit Tinggi, 80258 Tangkak, Johor",1.936192,103.258553,1.44,Rendah,2020-11-26 21:45,Tidak Aktif,58,123
+PPS-0136,BALAI SERBAGUNA TAMAN CONNAUGHT,Kota Tinggi,Johor,"689, Jalan Balai Serbaguna Taman Connaught, 80350 Kota Tinggi, Johor",1.400936,103.687888,3.1,Tinggi,2024-12-07 01:15,Aktif,198,119
+PPS-0137,PUSAT KOMUNITI BUKIT TINGGI,Muar,Johor,"310, Lorong Pusat Komuniti Bukit Tinggi, 80776 Muar, Johor",2.166212,104.045076,1.91,Sederhana,2020-01-18 18:15,Tidak Aktif,268,284
+PPS-0138,SEKOLAH AGAMA KAMPUNG ATTAP,Segamat,Johor,"327, Lebuh Sekolah Agama Kampung Attap, 80518 Segamat, Johor",1.370326,103.18883,0.88,Rendah,2023-03-08 07:30,Tidak Aktif,123,237
+PPS-0139,SURAU KAMPUNG ATTAP,Batu Pahat,Johor,"138, Lebuh Surau Kampung Attap, 80348 Batu Pahat, Johor",2.143579,104.435572,0.83,Rendah,2023-11-28 11:00,Aktif,474,97
+PPS-0140,KOMPLEKS KAMPUNG BARU,Batu Pahat,Johor,"895, Jalan Kompleks Kampung Baru, 80292 Batu Pahat, Johor",1.702692,103.847344,3.38,Tinggi,2021-03-16 06:30,Aktif,57,108
+PPS-0141,BALAI SERBAGUNA BUKIT TINGGI,Kota Tinggi,Johor,"713, Taman Balai Serbaguna Bukit Tinggi, 80820 Kota Tinggi, Johor",2.743116,102.734632,1.42,Rendah,2022-03-25 09:45,Aktif,382,183
+PPS-0142,BALAI SERBAGUNA GOMBAK SETIA,Mersing,Johor,"101, Lebuh Balai Serbaguna Gombak Setia, 80879 Mersing, Johor",1.692342,103.525633,3.87,Tinggi,2022-01-14 01:15,Tidak Aktif,58,133
+PPS-0143,SEKOLAH AGAMA KAMPUNG MEDAN,Tangkak,Johor,"157, Lorong Sekolah Agama Kampung Medan, 80437 Tangkak, Johor",2.702137,103.658286,1.07,Rendah,2023-12-18 20:30,Aktif,470,250
+PPS-0144,PUSAT KOMUNITI GUNUNG RAPAT,Segamat,Johor,"144, Taman Pusat Komuniti Gunung Rapat, 80600 Segamat, Johor",1.991243,103.965544,1.39,Rendah,2024-11-02 02:00,Tidak Aktif,261,70
+PPS-0145,DEWAN TAMAN DESA,Kota Tinggi,Johor,"467, Persiaran Dewan Taman Desa, 80161 Kota Tinggi, Johor",1.401952,102.802059,2.17,Sederhana,2023-03-22 15:00,Aktif,332,210
+PPS-0146,SURAU KAMPUNG MEDAN,Batu Pahat,Johor,"18, Taman Surau Kampung Medan, 80932 Batu Pahat, Johor",1.325089,103.944385,1.93,Sederhana,2020-12-04 16:15,Aktif,367,269
+PPS-0147,SEKOLAH AGAMA KUALA LUMPUR,Mersing,Johor,"383, Lebuh Sekolah Agama Kuala Lumpur, 80570 Mersing, Johor",2.522822,103.034649,2.49,Sederhana,2022-12-22 02:00,Aktif,244,193
+PPS-0148,MASJID KUALA LUMPUR,Tangkak,Johor,"512, Lebuh Masjid Kuala Lumpur, 80760 Tangkak, Johor",2.014008,103.773496,3.35,Tinggi,2024-11-02 07:15,Tidak Aktif,404,290
+PPS-0149,BALAIRAYA SRI PETALING,Segamat,Johor,"578, Jalan Balairaya Sri Petaling, 80283 Segamat, Johor",1.706643,104.348319,4.79,Kritikal,2024-12-05 22:45,Tidak Aktif,203,83
+PPS-0150,SURAU KAWASAN BARU,Kota Tinggi,Johor,"394, Lorong Surau Kawasan Baru, 80909 Kota Tinggi, Johor",2.150044,104.198885,5.81,Kritikal,2022-03-02 03:45,Aktif,88,174
+PPS-0151,BALAIRAYA KAMPUNG PANDAN,Pontian,Johor,"503, Lorong Balairaya Kampung Pandan, 80464 Pontian, Johor",2.753381,103.152753,1.88,Sederhana,2024-12-22 12:00,Tidak Aktif,201,126
+PPS-0152,MASJID BATU PAHAT,Johor Bahru,Johor,"325, Persiaran Masjid Batu Pahat, 80209 Johor Bahru, Johor",1.423057,102.808442,1.44,Rendah,2022-02-25 08:00,Aktif,145,220
+PPS-0153,SMK BUKIT MERAH,Segamat,Johor,"92, Persiaran Smk Bukit Merah, 80667 Segamat, Johor",2.135478,103.524882,1.1,Rendah,2023-01-01 09:45,Aktif,93,286
+PPS-0154,SEKOLAH AGAMA GUNUNG RAPAT,Kota Tinggi,Johor,"143, Persiaran Sekolah Agama Gunung Rapat, 80408 Kota Tinggi, Johor",2.157941,102.839166,0.65,Rendah,2023-12-09 13:30,Aktif,89,184
+PPS-0155,BALAI SERBAGUNA TAMAN CONNAUGHT,Mersing,Johor,"632, Lorong Balai Serbaguna Taman Connaught, 80568 Mersing, Johor",2.716333,103.941799,0.8,Rendah,2022-02-27 19:45,Tidak Aktif,218,225
+PPS-0156,KOMPLEKS BANDAR BARU,Muar,Johor,"308, Persiaran Kompleks Bandar Baru, 80717 Muar, Johor",1.945924,104.14707,4.5,Kritikal,2021-01-13 10:30,Tidak Aktif,374,251
+PPS-0157,SEKOLAH AGAMA TANJUNG BIDARA,Kota Tinggi,Johor,"117, Taman Sekolah Agama Tanjung Bidara, 80304 Kota Tinggi, Johor",1.788829,103.0606,2.05,Sederhana,2020-03-24 14:15,Aktif,199,35
+PPS-0158,BALAIRAYA BUKIT TINGGI,Pontian,Johor,"259, Lorong Balairaya Bukit Tinggi, 80832 Pontian, Johor",2.309466,102.778358,1.88,Sederhana,2024-02-16 18:45,Aktif,495,214
+PPS-0159,SURAU TAMAN CONNAUGHT,Tangkak,Johor,"654, Jalan Surau Taman Connaught, 80211 Tangkak, Johor",1.355148,104.436856,3.49,Tinggi,2021-01-21 19:00,Aktif,380,204
+PPS-0160,SK SERI KEMBANGAN,Muar,Johor,"265, Lorong Sk Seri Kembangan, 80622 Muar, Johor",2.748575,103.360911,3.34,Tinggi,2021-03-15 11:45,Aktif,397,256
+PPS-0161,SMK KAMPUNG MEDAN,Kluang,Johor,"426, Jalan Smk Kampung Medan, 80218 Kluang, Johor",1.817451,102.549125,3.6,Tinggi,2022-01-11 14:15,Aktif,228,243
+PPS-0162,PUSAT KOMUNITI PADANG BESAR,Johor Bahru,Johor,"308, Jalan Pusat Komuniti Padang Besar, 80929 Johor Bahru, Johor",1.957249,103.893527,2.53,Tinggi,2020-01-22 05:15,Aktif,332,81
+PPS-0163,DEWAN KAMPUNG JAWA,Muar,Johor,"645, Lorong Dewan Kampung Jawa, 80290 Muar, Johor",2.139773,104.416925,1.93,Sederhana,2024-11-07 14:45,Aktif,410,109
+PPS-0164,SMK KAMPUNG CHERAS,Kota Tinggi,Johor,"105, Taman Smk Kampung Cheras, 80291 Kota Tinggi, Johor",1.717517,103.907519,1.7,Sederhana,2022-11-22 15:30,Aktif,362,200
+PPS-0165,KOMPLEKS SIMPANG LIMA,Johor Bahru,Johor,"834, Persiaran Kompleks Simpang Lima, 80729 Johor Bahru, Johor",1.821887,104.191036,2.17,Sederhana,2020-01-08 09:00,Aktif,405,72
+PPS-0166,KOMPLEKS BATU PAHAT,Tangkak,Johor,"434, Lorong Kompleks Batu Pahat, 80598 Tangkak, Johor",1.882695,103.692852,2.19,Sederhana,2024-12-06 15:30,Aktif,211,230
+PPS-0167,BALAI SERBAGUNA BANDAR BARU,Batu Pahat,Johor,"200, Lebuh Balai Serbaguna Bandar Baru, 80675 Batu Pahat, Johor",2.598283,104.403684,1.99,Sederhana,2023-02-23 14:45,Aktif,339,15
+PPS-0168,SURAU KAMPUNG MEDAN,Kota Tinggi,Johor,"173, Lebuh Surau Kampung Medan, 80679 Kota Tinggi, Johor",1.738135,103.049706,3.65,Tinggi,2024-03-04 18:00,Aktif,328,187
+PPS-0169,BALAI SERBAGUNA SRI PETALING,Tangkak,Johor,"224, Lebuh Balai Serbaguna Sri Petaling, 80204 Tangkak, Johor",2.533916,102.583221,3.48,Tinggi,2022-12-28 01:45,Aktif,491,44
+PPS-0170,SURAU KAMPUNG PARIT,Bera,Pahang,"882, Taman Surau Kampung Parit, 25747 Bera, Pahang",4.20639,101.973892,2.12,Sederhana,2021-12-26 01:30,Aktif,355,275
+PPS-0171,SEKOLAH KAMPUNG CHERAS,Cameron Highlands,Pahang,"274, Taman Sekolah Kampung Cheras, 25795 Cameron Highlands, Pahang",3.212038,102.908108,2.7,Tinggi,2020-02-09 20:15,Tidak Aktif,117,127
+PPS-0172,SMK KAMPUNG KERINCHI,Cameron Highlands,Pahang,"146, Taman Smk Kampung Kerinchi, 25747 Cameron Highlands, Pahang",4.065069,103.156964,0.91,Rendah,2020-02-21 02:45,Aktif,192,188
+PPS-0173,BALAIRAYA KUALA LUMPUR,Pekan,Pahang,"749, Lebuh Balairaya Kuala Lumpur, 25750 Pekan, Pahang",4.590559,102.154579,1.86,Sederhana,2024-11-13 06:45,Tidak Aktif,303,137
+PPS-0174,SURAU BANDAR BARU,Lipis,Pahang,"580, Lebuh Surau Bandar Baru, 25907 Lipis, Pahang",4.322356,102.17551,1.18,Rendah,2020-11-04 20:45,Aktif,489,80
+PPS-0175,SMK TAMAN MAJU,Pekan,Pahang,"706, Lorong Smk Taman Maju, 25765 Pekan, Pahang",3.50434,103.483676,1.37,Rendah,2020-01-21 11:30,Aktif,390,84
+PPS-0176,DEWAN ORANG RAMAI SRI ANDALAS,Bentong,Pahang,"672, Jalan Dewan Orang Ramai Sri Andalas, 25820 Bentong, Pahang",3.371951,102.111018,0.71,Rendah,2021-11-19 07:45,Aktif,406,175
+PPS-0177,MASJID BUKIT RAHMAN,Bera,Pahang,"73, Lorong Masjid Bukit Rahman, 25492 Bera, Pahang",4.673941,102.344628,1.31,Rendah,2022-11-12 09:15,Aktif,466,68
+PPS-0178,BALAI RAYA KAMPUNG CHERAS,Temerloh,Pahang,"9, Taman Balai Raya Kampung Cheras, 25765 Temerloh, Pahang",4.684468,101.785706,0.85,Rendah,2021-12-14 19:45,Tidak Aktif,94,51
+PPS-0179,SMK KAMPUNG PARIT,Cameron Highlands,Pahang,"987, Lebuh Smk Kampung Parit, 25422 Cameron Highlands, Pahang",4.15538,102.679148,2.87,Tinggi,2021-11-18 19:30,Tidak Aktif,403,13
+PPS-0180,SURAU TAMAN DESA,Temerloh,Pahang,"194, Lebuh Surau Taman Desa, 25402 Temerloh, Pahang",4.42682,101.910891,2.28,Sederhana,2023-12-13 03:15,Aktif,354,36
+PPS-0181,PUSAT KOMUNITI TAMAN CEMPAKA,Raub,Pahang,"136, Lebuh Pusat Komuniti Taman Cempaka, 25981 Raub, Pahang",4.455194,101.524134,3.13,Tinggi,2021-03-25 15:00,Aktif,84,7
+PPS-0182,SMK TAMAN DESA,Kuantan,Pahang,"294, Taman Smk Taman Desa, 25885 Kuantan, Pahang",2.974634,103.345159,2.2,Sederhana,2024-11-18 19:15,Aktif,208,40
+PPS-0183,MASJID SRI PETALING,Raub,Pahang,"335, Lebuh Masjid Sri Petaling, 25700 Raub, Pahang",4.526035,103.448627,2.33,Sederhana,2022-11-23 13:15,Aktif,94,222
+PPS-0184,SEKOLAH SIMPANG LIMA,Bera,Pahang,"123, Jalan Sekolah Simpang Lima, 25824 Bera, Pahang",3.497418,102.717665,0.51,Rendah,2022-02-17 16:30,Aktif,114,137
+PPS-0185,SMK SRI GOMBAK,Bera,Pahang,"537, Jalan Smk Sri Gombak, 25369 Bera, Pahang",4.197147,101.558713,3.36,Tinggi,2023-11-15 16:30,Aktif,489,290
+PPS-0186,SK KAMPUNG CHERAS,Cameron Highlands,Pahang,"691, Jalan Sk Kampung Cheras, 25333 Cameron Highlands, Pahang",3.308913,102.010232,2.5,Tinggi,2021-11-02 15:30,Aktif,126,91
+PPS-0187,SMK KAMPUNG NELAYAN,Bentong,Pahang,"330, Lorong Smk Kampung Nelayan, 25526 Bentong, Pahang",3.716303,103.327895,4.8,Kritikal,2024-11-12 03:00,Aktif,461,264
+PPS-0188,FELDA KAMPUNG MEDAN,Bentong,Pahang,"793, Persiaran Felda Kampung Medan, 25435 Bentong, Pahang",4.598975,101.637853,0.96,Rendah,2021-01-10 18:30,Tidak Aktif,174,237
+PPS-0189,DEWAN ORANG RAMAI SRI PETALING,Lipis,Pahang,"779, Lorong Dewan Orang Ramai Sri Petaling, 25254 Lipis, Pahang",3.80172,102.486721,0.91,Rendah,2024-12-12 20:00,Tidak Aktif,50,192
+PPS-0190,DEWAN ORANG RAMAI TAMAN SETIA,Kuantan,Pahang,"504, Jalan Dewan Orang Ramai Taman Setia, 25245 Kuantan, Pahang",2.728688,102.559629,2.64,Tinggi,2024-12-14 22:30,Aktif,432,43
+PPS-0191,SMK PADANG BESAR,Rompin,Pahang,"607, Taman Smk Padang Besar, 25163 Rompin, Pahang",2.710269,101.767028,2.46,Sederhana,2022-12-09 10:45,Tidak Aktif,426,167
+PPS-0192,DEWAN ORANG RAMAI BANDAR BARU,Lipis,Pahang,"799, Taman Dewan Orang Ramai Bandar Baru, 25211 Lipis, Pahang",3.496067,101.967222,0.66,Rendah,2022-02-14 03:30,Tidak Aktif,156,231
+PPS-0193,SK GUNUNG RAPAT,Kuantan,Pahang,"827, Persiaran Sk Gunung Rapat, 25946 Kuantan, Pahang",3.519363,103.204964,3.4,Tinggi,2022-12-05 02:15,Tidak Aktif,252,262
+PPS-0194,MASJID BUKIT MERAH,Bentong,Pahang,"975, Lebuh Masjid Bukit Merah, 25975 Bentong, Pahang",3.989803,102.020334,2.25,Sederhana,2020-12-15 03:15,Aktif,81,113
+PPS-0195,SK BANDAR KINRARA,Cameron Highlands,Pahang,"601, Persiaran Sk Bandar Kinrara, 25932 Cameron Highlands, Pahang",2.935893,102.301164,1.5,Rendah,2023-12-26 04:00,Tidak Aktif,474,169
+PPS-0196,MASJID KAMPUNG CHERAS,Bera,Pahang,"444, Lebuh Masjid Kampung Cheras, 25608 Bera, Pahang",2.593932,102.42199,1.18,Rendah,2022-12-07 05:30,Aktif,126,17
+PPS-0197,SEKOLAH KAMPUNG KERINCHI,Rompin,Pahang,"422, Taman Sekolah Kampung Kerinchi, 25590 Rompin, Pahang",3.862188,101.99157,0.78,Rendah,2023-12-07 20:15,Tidak Aktif,460,278
+PPS-0198,PUSAT KOMUNITI BUKIT RAHMAN,Bentong,Pahang,"558, Lebuh Pusat Komuniti Bukit Rahman, 25452 Bentong, Pahang",4.676688,103.063832,5.26,Kritikal,2022-02-06 00:30,Aktif,65,143
+PPS-0199,PUSAT KOMUNITI BANDAR KINRARA,Bentong,Pahang,"239, Lorong Pusat Komuniti Bandar Kinrara, 25202 Bentong, Pahang",4.279039,102.443369,0.74,Rendah,2020-03-25 07:45,Aktif,479,88
+PPS-0200,PUSAT KOMUNITI BANDAR KINRARA,Cameron Highlands,Pahang,"29, Persiaran Pusat Komuniti Bandar Kinrara, 25681 Cameron Highlands, Pahang",3.020412,102.136009,2.06,Sederhana,2023-12-18 09:15,Aktif,96,28
+PPS-0201,FELDA TANJUNG PUTERI,Jerantut,Pahang,"340, Taman Felda Tanjung Puteri, 25306 Jerantut, Pahang",3.823658,101.539856,3.01,Tinggi,2022-12-02 00:15,Aktif,122,56
+PPS-0202,PUSAT KOMUNITI KAMPUNG JAWA,Raub,Pahang,"601, Jalan Pusat Komuniti Kampung Jawa, 25444 Raub, Pahang",4.393473,103.421118,0.64,Rendah,2023-12-26 20:45,Tidak Aktif,139,287
+PPS-0203,SURAU SIMPANG LIMA,Rompin,Pahang,"388, Persiaran Surau Simpang Lima, 25851 Rompin, Pahang",4.231382,101.946474,1.63,Sederhana,2024-11-13 18:00,Aktif,212,113
+PPS-0204,MASJID KAWASAN BARU,Temerloh,Pahang,"764, Jalan Masjid Kawasan Baru, 25343 Temerloh, Pahang",3.744211,103.373376,0.82,Rendah,2022-11-15 00:30,Aktif,404,34
+PPS-0205,BALAIRAYA TELUK INTAN,Lipis,Pahang,"396, Lebuh Balairaya Teluk Intan, 25850 Lipis, Pahang",3.064647,101.716069,1.67,Sederhana,2023-02-13 11:45,Aktif,295,295
+PPS-0206,FELDA PADANG BESAR,Temerloh,Pahang,"819, Jalan Felda Padang Besar, 25401 Temerloh, Pahang",4.168136,101.951165,0.76,Rendah,2020-11-11 05:45,Aktif,88,280
+PPS-0207,FELDA BUKIT MERAH,Bera,Pahang,"442, Lorong Felda Bukit Merah, 25721 Bera, Pahang",3.243491,103.470552,2.74,Tinggi,2022-11-07 06:45,Tidak Aktif,419,276
+PPS-0208,SK TELUK INTAN,Kuantan,Pahang,"403, Taman Sk Teluk Intan, 25662 Kuantan, Pahang",3.953315,102.094801,2.73,Tinggi,2020-01-14 02:30,Tidak Aktif,370,245
+PPS-0209,BALAIRAYA KUALA LUMPUR,Hilir Perak,Perak,"485, Jalan Balairaya Kuala Lumpur, 30415 Hilir Perak, Perak",3.559192,100.704999,3.21,Tinggi,2020-01-21 17:45,Aktif,245,189
+PPS-0210,BALAI SERBAGUNA TAMAN DAMAI,Hulu Perak,Perak,"232, Persiaran Balai Serbaguna Taman Damai, 30677 Hulu Perak, Perak",4.525283,100.815955,1.25,Rendah,2020-11-22 11:45,Tidak Aktif,351,116
+PPS-0211,SURAU TAMAN SETIA,Lenggong,Perak,"989, Taman Surau Taman Setia, 30803 Lenggong, Perak",3.640263,100.964527,3.21,Tinggi,2023-12-10 02:45,Tidak Aktif,415,17
+PPS-0212,KOMPLEKS SUKAN WANGSA MAJU,Lenggong,Perak,"151, Jalan Kompleks Sukan Wangsa Maju, 30875 Lenggong, Perak",4.813806,101.120181,2.45,Sederhana,2021-12-26 06:15,Aktif,90,222
+PPS-0213,KOMPLEKS SUKAN TAMAN DAMAI,Kampar,Perak,"328, Jalan Kompleks Sukan Taman Damai, 30189 Kampar, Perak",5.793719,101.252671,1.9,Sederhana,2022-01-17 14:00,Tidak Aktif,369,300
+PPS-0214,MASJID PAYA BESAR,Lenggong,Perak,"581, Taman Masjid Paya Besar, 30696 Lenggong, Perak",5.297877,100.635023,3.91,Tinggi,2024-11-25 03:30,Tidak Aktif,500,176
+PPS-0215,KOMPLEKS SUKAN TAMAN CONNAUGHT,Kuala Kangsar,Perak,"485, Jalan Kompleks Sukan Taman Connaught, 30276 Kuala Kangsar, Perak",4.107514,101.285745,0.64,Rendah,2023-03-02 12:30,Tidak Aktif,75,243
+PPS-0216,BALAIRAYA BANDAR UTAMA,Kerian,Perak,"288, Lebuh Balairaya Bandar Utama, 30978 Kerian, Perak",5.563172,100.524279,1.6,Sederhana,2021-12-10 23:45,Tidak Aktif,214,137
+PPS-0217,DEWAN KAMPUNG PANDAN,Perak Tengah,Perak,"217, Lebuh Dewan Kampung Pandan, 30858 Perak Tengah, Perak",4.458577,101.274666,2.02,Sederhana,2020-01-17 05:00,Aktif,309,206
+PPS-0218,KOMPLEKS SUKAN BUKIT MERAH,Hulu Perak,Perak,"178, Lorong Kompleks Sukan Bukit Merah, 30996 Hulu Perak, Perak",5.295188,101.129143,3.76,Tinggi,2020-12-15 01:30,Tidak Aktif,190,188
+PPS-0219,SEKOLAH BUKIT MERAH,Larut Matang,Perak,"248, Persiaran Sekolah Bukit Merah, 30600 Larut Matang, Perak",4.661791,101.262492,1.68,Sederhana,2024-02-18 11:30,Aktif,182,46
+PPS-0220,KOMPLEKS SUKAN FELDA PALONG,Kerian,Perak,"878, Lorong Kompleks Sukan Felda Palong, 30762 Kerian, Perak",3.563136,100.559581,0.71,Rendah,2024-02-01 21:00,Aktif,117,88
+PPS-0221,KOMPLEKS SUKAN BANDAR UTAMA,Manjung,Perak,"730, Persiaran Kompleks Sukan Bandar Utama, 30533 Manjung, Perak",5.341989,100.768524,3.78,Tinggi,2022-02-07 14:30,Tidak Aktif,472,203
+PPS-0222,PUSAT KOMUNITI TAMAN MEGAH,Manjung,Perak,"663, Taman Pusat Komuniti Taman Megah, 30723 Manjung, Perak",3.735318,101.113816,1.18,Rendah,2020-02-11 08:30,Tidak Aktif,183,152
+PPS-0223,SK TAMAN CONNAUGHT,Kampar,Perak,"414, Persiaran Sk Taman Connaught, 30797 Kampar, Perak",3.844837,101.418569,0.53,Rendah,2022-02-09 13:45,Aktif,68,298
+PPS-0224,PUSAT KOMUNITI KAMPUNG NELAYAN,Perak Tengah,Perak,"703, Taman Pusat Komuniti Kampung Nelayan, 30753 Perak Tengah, Perak",5.787934,101.479218,3.86,Tinggi,2024-01-10 05:15,Aktif,291,65
+PPS-0225,MASJID KAWASAN BARU,Perak Tengah,Perak,"671, Jalan Masjid Kawasan Baru, 30327 Perak Tengah, Perak",4.094899,101.470013,2.24,Sederhana,2023-01-26 10:30,Aktif,200,237
+PPS-0226,KOMPLEKS SUKAN BANDAR KINRARA,Hilir Perak,Perak,"967, Taman Kompleks Sukan Bandar Kinrara, 30172 Hilir Perak, Perak",4.582234,101.539672,1.69,Sederhana,2023-11-17 09:45,Aktif,487,77
+PPS-0227,KOMPLEKS SUKAN GOMBAK SETIA,Hulu Perak,Perak,"147, Persiaran Kompleks Sukan Gombak Setia, 30983 Hulu Perak, Perak",5.7824,100.911204,3.67,Tinggi,2022-02-21 05:30,Tidak Aktif,52,231
+PPS-0228,KOMPLEKS SUKAN GUNUNG RAPAT,Kerian,Perak,"502, Jalan Kompleks Sukan Gunung Rapat, 30232 Kerian, Perak",3.981579,101.428251,2.13,Sederhana,2023-02-16 12:00,Aktif,152,191
+PPS-0229,SURAU TAMAN MAJU,Batang Padang,Perak,"19, Jalan Surau Taman Maju, 30741 Batang Padang, Perak",5.551615,101.408217,2.84,Tinggi,2022-01-05 03:45,Aktif,206,85
+PPS-0230,BALAIRAYA GOMBAK SETIA,Hilir Perak,Perak,"746, Taman Balairaya Gombak Setia, 30710 Hilir Perak, Perak",5.394841,100.857843,1.93,Sederhana,2022-12-16 11:15,Aktif,465,206
+PPS-0231,MASJID FELDA PALONG,Batang Padang,Perak,"752, Jalan Masjid Felda Palong, 30703 Batang Padang, Perak",4.025362,101.372603,1.62,Sederhana,2023-11-21 08:00,Aktif,74,55
+PPS-0232,SEKOLAH TAMAN SETIA,Muallim,Perak,"455, Lebuh Sekolah Taman Setia, 30226 Muallim, Perak",5.423076,100.557882,1.97,Sederhana,2021-12-23 21:00,Aktif,388,51
+PPS-0233,MASJID TAMAN SETIA,Muallim,Perak,"851, Jalan Masjid Taman Setia, 30623 Muallim, Perak",4.696711,101.247357,2.68,Tinggi,2020-11-16 06:15,Tidak Aktif,475,267
+PPS-0234,MASJID KAMPUNG BARU,Kampar,Perak,"562, Lebuh Masjid Kampung Baru, 30312 Kampar, Perak",4.32322,100.991707,1.98,Sederhana,2020-12-01 21:00,Tidak Aktif,477,293
+PPS-0235,SURAU PADANG BESAR,Muallim,Perak,"741, Jalan Surau Padang Besar, 30362 Muallim, Perak",4.636439,101.639335,1.96,Sederhana,2022-01-15 01:00,Tidak Aktif,497,20
+PPS-0236,SMK TAMAN JAYA,Kerian,Perak,"98, Jalan Smk Taman Jaya, 30109 Kerian, Perak",4.328494,101.31212,3.5,Tinggi,2022-12-12 14:30,Tidak Aktif,97,190
+PPS-0237,BALAI SERBAGUNA SRI GOMBAK,Kinta,Perak,"856, Lebuh Balai Serbaguna Sri Gombak, 30806 Kinta, Perak",3.9206,100.980933,3.7,Tinggi,2020-12-05 22:00,Tidak Aktif,482,81
+PPS-0238,KOMPLEKS SUKAN KAMPUNG PANDAN,Hilir Perak,Perak,"186, Taman Kompleks Sukan Kampung Pandan, 30488 Hilir Perak, Perak",4.456864,101.2089,3.42,Tinggi,2023-12-16 03:45,Aktif,82,133
+PPS-0239,SURAU KAMPUNG CHERAS,Muallim,Perak,"742, Taman Surau Kampung Cheras, 30329 Muallim, Perak",4.222747,101.345482,5.67,Kritikal,2024-01-17 22:00,Aktif,422,127
+PPS-0240,BALAIRAYA TAMAN MEGAH,Kulim,Kedah,"914, Taman Balairaya Taman Megah, 05155 Kulim, Kedah",6.296453,100.741404,1.43,Rendah,2023-03-28 15:15,Aktif,301,164
+PPS-0241,SURAU KAMPUNG NELAYAN,Kuala Muda,Kedah,"564, Lebuh Surau Kampung Nelayan, 05512 Kuala Muda, Kedah",5.897074,100.378157,2.62,Tinggi,2024-02-15 02:45,Aktif,110,254
+PPS-0242,BALAI RAYA KAMPUNG BARU,Yan,Kedah,"571, Taman Balai Raya Kampung Baru, 05100 Yan, Kedah",6.284048,100.202643,3.69,Tinggi,2022-03-17 17:15,Tidak Aktif,283,174
+PPS-0243,PUSAT KOMUNITI KAWASAN BARU,Kulim,Kedah,"574, Taman Pusat Komuniti Kawasan Baru, 05714 Kulim, Kedah",6.490373,100.916589,2.16,Sederhana,2020-02-04 21:15,Aktif,231,149
+PPS-0244,SK GUNUNG RAPAT,Pendang,Kedah,"505, Lorong Sk Gunung Rapat, 05941 Pendang, Kedah",6.126382,100.802096,3.58,Tinggi,2022-11-20 06:15,Aktif,486,201
+PPS-0245,SMK SERI KEMBANGAN,Kuala Muda,Kedah,"776, Lebuh Smk Seri Kembangan, 05147 Kuala Muda, Kedah",6.048455,100.88142,6.09,Kritikal,2020-03-25 14:45,Tidak Aktif,308,68
+PPS-0246,SURAU SRI ANDALAS,Padang Terap,Kedah,"859, Taman Surau Sri Andalas, 05594 Padang Terap, Kedah",5.505205,100.836214,5.95,Kritikal,2024-12-06 23:15,Aktif,386,164
+PPS-0247,KOMPLEKS BUKIT TINGGI,Pendang,Kedah,"281, Lebuh Kompleks Bukit Tinggi, 05451 Pendang, Kedah",6.557669,100.518665,5.13,Kritikal,2021-12-14 19:30,Tidak Aktif,330,160
+PPS-0248,DEWAN ORANG RAMAI TAMAN MAJU,Yan,Kedah,"215, Taman Dewan Orang Ramai Taman Maju, 05831 Yan, Kedah",6.384182,100.653582,0.85,Rendah,2021-12-17 17:30,Tidak Aktif,439,180
+PPS-0249,BALAI RAYA SRI PETALING,Pendang,Kedah,"293, Lebuh Balai Raya Sri Petaling, 05927 Pendang, Kedah",6.076444,100.670638,0.61,Rendah,2021-02-02 21:00,Aktif,434,82
+PPS-0250,SK KAMPUNG MEDAN,Kubang Pasu,Kedah,"209, Taman Sk Kampung Medan, 05133 Kubang Pasu, Kedah",6.320068,100.246428,1.95,Sederhana,2024-03-28 07:45,Aktif,451,147
+PPS-0251,BALAI RAYA TAMAN SETIA,Yan,Kedah,"980, Persiaran Balai Raya Taman Setia, 05665 Yan, Kedah",6.297392,101.026485,1.24,Rendah,2024-12-28 14:15,Tidak Aktif,410,188
+PPS-0252,DEWAN ORANG RAMAI KAMPUNG MEDAN,Pokok Sena,Kedah,"460, Lorong Dewan Orang Ramai Kampung Medan, 05799 Pokok Sena, Kedah",6.155938,100.703387,1.46,Rendah,2020-03-13 01:45,Aktif,185,66
+PPS-0253,SMK GOMBAK SETIA,Kota Setar,Kedah,"727, Lorong Smk Gombak Setia, 05140 Kota Setar, Kedah",6.200783,100.355016,0.82,Rendah,2024-11-27 21:30,Aktif,343,281
+PPS-0254,SURAU KAMPUNG NELAYAN,Kulim,Kedah,"980, Lorong Surau Kampung Nelayan, 05633 Kulim, Kedah",5.587457,100.807682,1.01,Rendah,2024-02-18 12:00,Aktif,159,169
+PPS-0255,KOMPLEKS KAMPUNG ATTAP,Kulim,Kedah,"487, Taman Kompleks Kampung Attap, 05943 Kulim, Kedah",5.932957,100.318445,3.47,Tinggi,2022-11-15 07:15,Tidak Aktif,399,164
+PPS-0256,BALAI RAYA TAMAN DAMAI,Langkawi,Kedah,"554, Persiaran Balai Raya Taman Damai, 05125 Langkawi, Kedah",6.599119,101.044988,6.06,Kritikal,2024-01-26 16:45,Aktif,201,98
+PPS-0257,BALAIRAYA SRI PETALING,Kulim,Kedah,"547, Jalan Balairaya Sri Petaling, 05741 Kulim, Kedah",6.116674,101.048212,1.17,Rendah,2023-12-27 03:15,Aktif,409,222
+PPS-0258,BALAIRAYA BUKIT MERAH,Sik,Kedah,"471, Persiaran Balairaya Bukit Merah, 05138 Sik, Kedah",6.480105,100.17212,0.55,Rendah,2024-01-03 18:15,Tidak Aktif,258,198
+PPS-0259,SK BATU PAHAT,Padang Terap,Kedah,"690, Jalan Sk Batu Pahat, 05647 Padang Terap, Kedah",6.256261,100.533025,1.22,Rendah,2024-11-02 22:00,Aktif,307,54
+PPS-0260,MASJID KAMPUNG MEDAN,Kubang Pasu,Kedah,"784, Lebuh Masjid Kampung Medan, 05490 Kubang Pasu, Kedah",6.44427,100.401351,2.16,Sederhana,2021-02-18 07:15,Tidak Aktif,457,279
+PPS-0261,SMK TANJUNG PUTERI,Kubang Pasu,Kedah,"567, Taman Smk Tanjung Puteri, 05244 Kubang Pasu, Kedah",6.652161,100.244076,0.51,Rendah,2023-03-18 17:00,Aktif,433,176
+PPS-0262,SURAU PAYA BESAR,Kuala Muda,Kedah,"165, Lorong Surau Paya Besar, 05326 Kuala Muda, Kedah",5.995185,100.745932,1.75,Sederhana,2021-11-22 18:00,Tidak Aktif,331,236
+PPS-0263,MASJID TAMAN DAMAI,Sik,Kedah,"101, Lorong Masjid Taman Damai, 05843 Sik, Kedah",6.159598,100.390653,2.45,Sederhana,2021-01-22 20:15,Aktif,367,35
+PPS-0264,KOMPLEKS BANDAR UTAMA,Kuala Muda,Kedah,"711, Taman Kompleks Bandar Utama, 05256 Kuala Muda, Kedah",5.881343,100.550646,1.86,Sederhana,2023-01-06 00:30,Aktif,163,223
+PPS-0265,SMK BUKIT RAHMAN,Kubang Pasu,Kedah,"474, Lebuh Smk Bukit Rahman, 05467 Kubang Pasu, Kedah",6.508132,100.234306,3.23,Tinggi,2021-11-21 19:00,Tidak Aktif,489,71
+PPS-0266,MASJID PADANG BESAR,Pendang,Kedah,"914, Jalan Masjid Padang Besar, 05969 Pendang, Kedah",5.735718,100.833545,1.53,Sederhana,2024-03-13 18:15,Tidak Aktif,332,133
+PPS-0267,BALAIRAYA TANJUNG BIDARA,Pendang,Kedah,"402, Lorong Balairaya Tanjung Bidara, 05890 Pendang, Kedah",6.572783,100.639677,2.36,Sederhana,2023-12-17 16:00,Aktif,307,5
+PPS-0268,KOMPLEKS GUNUNG RAPAT,Sik,Kedah,"776, Taman Kompleks Gunung Rapat, 05243 Sik, Kedah",5.786657,101.064,1.68,Sederhana,2021-03-24 23:45,Tidak Aktif,70,112
+PPS-0269,DEWAN ORANG RAMAI KAMPUNG BARU,Padang Terap,Kedah,"685, Lorong Dewan Orang Ramai Kampung Baru, 05630 Padang Terap, Kedah",5.7781,100.364357,4.9,Kritikal,2023-02-02 01:30,Aktif,316,140
+PPS-0270,BALAIRAYA BATU PAHAT,Yan,Kedah,"670, Lebuh Balairaya Batu Pahat, 05474 Yan, Kedah",5.815979,100.64435,2.4,Sederhana,2024-11-09 12:15,Aktif,230,176
+PPS-0271,SK TAMAN DESA,Padang Terap,Kedah,"904, Lorong Sk Taman Desa, 05550 Padang Terap, Kedah",6.451189,100.987172,0.58,Rendah,2021-01-05 05:15,Aktif,417,60
+PPS-0272,MASJID BUKIT RAHMAN,Sik,Kedah,"692, Lebuh Masjid Bukit Rahman, 05590 Sik, Kedah",5.776416,100.911173,0.66,Rendah,2020-02-08 01:15,Aktif,132,68
+PPS-0273,BALAIRAYA TELUK INTAN,Sik,Kedah,"171, Persiaran Balairaya Teluk Intan, 05284 Sik, Kedah",6.115171,100.990798,1.91,Sederhana,2020-03-24 23:30,Tidak Aktif,160,229
+PPS-0274,BALAIRAYA KAMPUNG NELAYAN,Pokok Sena,Kedah,"851, Lebuh Balairaya Kampung Nelayan, 05715 Pokok Sena, Kedah",6.691331,100.967302,1.08,Rendah,2024-12-22 16:30,Aktif,401,175
+PPS-0275,BALAI RAYA BATU PAHAT,Padang Terap,Kedah,"136, Jalan Balai Raya Batu Pahat, 05116 Padang Terap, Kedah",6.21584,100.168843,1.36,Rendah,2023-03-27 04:00,Aktif,364,19
+PPS-0276,PUSAT KOMUNITI BANDAR BARU,Pendang,Kedah,"924, Taman Pusat Komuniti Bandar Baru, 05652 Pendang, Kedah",6.103995,100.217516,3.85,Tinggi,2024-02-14 11:00,Tidak Aktif,269,117
+PPS-0277,KOMPLEKS KAMPUNG CHERAS,Padang Terap,Kedah,"101, Lebuh Kompleks Kampung Cheras, 05237 Padang Terap, Kedah",6.447467,100.481236,1.27,Rendah,2022-11-20 17:45,Aktif,52,3
+PPS-0278,BALAI RAYA FELDA PALONG,Pokok Sena,Kedah,"705, Persiaran Balai Raya Felda Palong, 05518 Pokok Sena, Kedah",6.127049,100.619762,1.65,Sederhana,2022-03-09 17:45,Aktif,363,141
+PPS-0279,SURAU TAMAN MEGAH,Sik,Kedah,"495, Lorong Surau Taman Megah, 05479 Sik, Kedah",5.976945,100.303694,1.98,Sederhana,2024-01-12 22:45,Tidak Aktif,487,60
+PPS-0280,SMK FELDA PALONG,Seberang Perai Utara,Pulau Pinang,"521, Lebuh Smk Felda Palong, 10904 Seberang Perai Utara, Pulau Pinang",5.491555,100.579698,1.05,Rendah,2021-11-13 20:00,Tidak Aktif,471,74
+PPS-0281,SMK TAMAN DAMAI,Seberang Perai Utara,Pulau Pinang,"228, Persiaran Smk Taman Damai, 10181 Seberang Perai Utara, Pulau Pinang",5.562931,100.374151,2.22,Sederhana,2024-02-21 16:30,Tidak Aktif,355,29
+PPS-0282,MASJID KAMPUNG ATTAP,Seberang Perai Selatan,Pulau Pinang,"293, Lorong Masjid Kampung Attap, 10134 Seberang Perai Selatan, Pulau Pinang",5.420146,100.375589,3.27,Tinggi,2024-12-06 21:00,Aktif,385,0
+PPS-0283,SEKOLAH KAMPUNG PARIT,Seberang Perai Selatan,Pulau Pinang,"686, Lebuh Sekolah Kampung Parit, 10515 Seberang Perai Selatan, Pulau Pinang",5.143421,100.310375,2.02,Sederhana,2020-11-18 09:30,Aktif,467,141
+PPS-0284,SEKOLAH KAMPUNG CHERAS,Seberang Perai Selatan,Pulau Pinang,"5, Persiaran Sekolah Kampung Cheras, 10279 Seberang Perai Selatan, Pulau Pinang",5.403182,100.27781,1.61,Sederhana,2024-11-10 10:00,Tidak Aktif,181,275
+PPS-0285,SEKOLAH KAMPUNG CHERAS,Timur Laut,Pulau Pinang,"496, Lorong Sekolah Kampung Cheras, 10875 Timur Laut, Pulau Pinang",5.225071,100.377107,1.28,Rendah,2024-02-28 00:45,Aktif,84,195
+PPS-0286,BALAIRAYA TAMAN SETIA,Seberang Perai Selatan,Pulau Pinang,"979, Persiaran Balairaya Taman Setia, 10628 Seberang Perai Selatan, Pulau Pinang",5.438456,100.291972,2.2,Sederhana,2021-01-10 02:45,Tidak Aktif,470,175
+PPS-0287,BALAIRAYA KAMPUNG PARIT,Barat Daya,Pulau Pinang,"224, Taman Balairaya Kampung Parit, 10375 Barat Daya, Pulau Pinang",5.377276,100.271394,1.25,Rendah,2023-12-24 06:15,Tidak Aktif,496,135
+PPS-0288,BALAI SERBAGUNA KAMPUNG PARIT,Seberang Perai Selatan,Pulau Pinang,"160, Jalan Balai Serbaguna Kampung Parit, 10222 Seberang Perai Selatan, Pulau Pinang",5.214604,100.533976,5.69,Kritikal,2024-02-01 17:00,Tidak Aktif,240,161
+PPS-0289,BALAI SERBAGUNA SRI GOMBAK,Seberang Perai Utara,Pulau Pinang,"503, Lorong Balai Serbaguna Sri Gombak, 10882 Seberang Perai Utara, Pulau Pinang",5.549061,100.552395,4.7,Kritikal,2024-12-05 01:45,Aktif,326,16
+PPS-0290,DEWAN KOMUNITI GOMBAK SETIA,Timur Laut,Pulau Pinang,"124, Taman Dewan Komuniti Gombak Setia, 10571 Timur Laut, Pulau Pinang",5.273644,100.54416,0.51,Rendah,2023-12-19 03:30,Aktif,491,132
+PPS-0291,KOMPLEKS SUKAN WANGSA MAJU,Seberang Perai Selatan,Pulau Pinang,"352, Persiaran Kompleks Sukan Wangsa Maju, 10288 Seberang Perai Selatan, Pulau Pinang",5.374282,100.294856,1.71,Sederhana,2022-01-28 12:30,Aktif,342,67
+PPS-0292,PUSAT KOMUNITI BUKIT TINGGI,Timur Laut,Pulau Pinang,"569, Lebuh Pusat Komuniti Bukit Tinggi, 10976 Timur Laut, Pulau Pinang",5.443006,100.525676,1.65,Sederhana,2023-12-26 00:15,Aktif,118,264
+PPS-0293,PUSAT KOMUNITI TAMAN DAMAI,Timur Laut,Pulau Pinang,"576, Taman Pusat Komuniti Taman Damai, 10148 Timur Laut, Pulau Pinang",5.46028,100.514133,2.19,Sederhana,2021-11-27 08:45,Tidak Aktif,99,230
+PPS-0294,DEWAN ORANG RAMAI TAMAN DAMAI,Seberang Perai Tengah,Pulau Pinang,"353, Jalan Dewan Orang Ramai Taman Damai, 10521 Seberang Perai Tengah, Pulau Pinang",5.229885,100.344123,1.37,Rendah,2021-03-19 18:15,Tidak Aktif,195,181
+PPS-0295,KOMPLEKS SUKAN KUALA LUMPUR,Seberang Perai Tengah,Pulau Pinang,"391, Taman Kompleks Sukan Kuala Lumpur, 10393 Seberang Perai Tengah, Pulau Pinang",5.436596,100.394997,2.46,Sederhana,2022-12-14 20:45,Tidak Aktif,86,40
+PPS-0296,PUSAT KOMUNITI SRI GOMBAK,Seberang Perai Selatan,Pulau Pinang,"620, Lebuh Pusat Komuniti Sri Gombak, 10377 Seberang Perai Selatan, Pulau Pinang",5.271813,100.325393,3.67,Tinggi,2024-01-17 14:45,Aktif,487,11
+PPS-0297,SMK FELDA PALONG,Seberang Perai Selatan,Pulau Pinang,"171, Lebuh Smk Felda Palong, 10205 Seberang Perai Selatan, Pulau Pinang",5.463886,100.464809,1.44,Rendah,2024-02-02 00:45,Aktif,92,53
+PPS-0298,SEKOLAH BANDAR UTAMA,Seberang Perai Tengah,Pulau Pinang,"235, Lorong Sekolah Bandar Utama, 10855 Seberang Perai Tengah, Pulau Pinang",5.409051,100.233725,1.13,Rendah,2024-12-27 05:00,Aktif,232,166
+PPS-0299,PUSAT KOMUNITI TAMAN MEGAH,Seberang Perai Utara,Pulau Pinang,"456, Lorong Pusat Komuniti Taman Megah, 10814 Seberang Perai Utara, Pulau Pinang",5.333597,100.548359,2.09,Sederhana,2024-02-14 16:30,Tidak Aktif,296,276
+PPS-0300,BALAIRAYA TAMAN SETIA,Seberang Perai Selatan,Pulau Pinang,"267, Lorong Balairaya Taman Setia, 10410 Seberang Perai Selatan, Pulau Pinang",5.502354,100.376744,1.02,Rendah,2022-12-10 15:00,Tidak Aktif,301,244
+PPS-0301,PUSAT KOMUNITI TAMAN CONNAUGHT,Seberang Perai Tengah,Pulau Pinang,"237, Jalan Pusat Komuniti Taman Connaught, 10661 Seberang Perai Tengah, Pulau Pinang",5.104566,100.372174,1.91,Sederhana,2023-03-13 07:15,Tidak Aktif,380,199
+PPS-0302,MASJID KAMPUNG ATTAP,Seberang Perai Utara,Pulau Pinang,"783, Taman Masjid Kampung Attap, 10926 Seberang Perai Utara, Pulau Pinang",5.210296,100.231684,1.77,Sederhana,2022-03-14 06:00,Aktif,198,56
+PPS-0303,BALAI SERBAGUNA KAMPUNG KERINCHI,Seberang Perai Utara,Pulau Pinang,"193, Persiaran Balai Serbaguna Kampung Kerinchi, 10119 Seberang Perai Utara, Pulau Pinang",5.408865,100.308854,1.47,Rendah,2021-11-04 09:30,Aktif,274,4
+PPS-0304,MASJID KAWASAN BARU,Seberang Perai Selatan,Pulau Pinang,"431, Persiaran Masjid Kawasan Baru, 10904 Seberang Perai Selatan, Pulau Pinang",5.145098,100.20589,4.0,Tinggi,2020-02-11 02:15,Aktif,447,200
+PPS-0305,PUSAT KOMUNITI BATU PAHAT,Barat Daya,Pulau Pinang,"849, Jalan Pusat Komuniti Batu Pahat, 10224 Barat Daya, Pulau Pinang",5.371596,100.272641,5.79,Kritikal,2023-02-08 23:00,Aktif,426,48
+PPS-0306,SEKOLAH BANDAR UTAMA,Timur Laut,Pulau Pinang,"959, Persiaran Sekolah Bandar Utama, 10262 Timur Laut, Pulau Pinang",5.433004,100.283379,1.54,Sederhana,2024-03-04 08:45,Tidak Aktif,151,184
+PPS-0307,SMK BUKIT TINGGI,Barat Daya,Pulau Pinang,"649, Lebuh Smk Bukit Tinggi, 10432 Barat Daya, Pulau Pinang",5.531829,100.287115,1.29,Rendah,2020-03-13 07:00,Tidak Aktif,347,243
+PPS-0308,MASJID GUNUNG RAPAT,Timur Laut,Pulau Pinang,"512, Jalan Masjid Gunung Rapat, 10802 Timur Laut, Pulau Pinang",5.177496,100.508319,2.43,Sederhana,2020-11-12 20:15,Tidak Aktif,455,54
+PPS-0309,DEWAN ORANG RAMAI KAMPUNG PARIT,Seberang Perai Selatan,Pulau Pinang,"825, Lebuh Dewan Orang Ramai Kampung Parit, 10850 Seberang Perai Selatan, Pulau Pinang",5.343921,100.326696,1.19,Rendah,2021-01-09 01:45,Tidak Aktif,336,150
+PPS-0310,DEWAN KOMUNITI SRI PETALING,Timur Laut,Pulau Pinang,"357, Persiaran Dewan Komuniti Sri Petaling, 10849 Timur Laut, Pulau Pinang",5.448519,100.27591,2.37,Sederhana,2024-03-06 02:15,Aktif,469,134
+PPS-0311,DEWAN ORANG RAMAI BATU PAHAT,Timur Laut,Pulau Pinang,"752, Lorong Dewan Orang Ramai Batu Pahat, 10119 Timur Laut, Pulau Pinang",5.283556,100.200288,1.86,Sederhana,2021-03-11 23:00,Tidak Aktif,325,198
+PPS-0312,DEWAN WANGSA MAJU,Rembau,Negeri Sembilan,"290, Persiaran Dewan Wangsa Maju, 70519 Rembau, Negeri Sembilan",3.183224,102.565734,1.61,Sederhana,2020-03-02 04:15,Tidak Aktif,153,54
+PPS-0313,BALAI RAYA KAMPUNG KERINCHI,Port Dickson,Negeri Sembilan,"539, Taman Balai Raya Kampung Kerinchi, 70818 Port Dickson, Negeri Sembilan",2.691617,101.831817,1.55,Sederhana,2024-12-23 02:00,Tidak Aktif,156,251
+PPS-0314,SK TANJUNG BIDARA,Tampin,Negeri Sembilan,"572, Lebuh Sk Tanjung Bidara, 70941 Tampin, Negeri Sembilan",2.579957,102.60102,2.21,Sederhana,2022-03-17 01:00,Tidak Aktif,89,110
+PPS-0315,SEKOLAH BATU PAHAT,Rembau,Negeri Sembilan,"195, Lorong Sekolah Batu Pahat, 70638 Rembau, Negeri Sembilan",2.597119,102.525172,2.07,Sederhana,2024-12-24 17:45,Tidak Aktif,442,295
+PPS-0316,BALAI RAYA SERI KEMBANGAN,Kuala Pilah,Negeri Sembilan,"171, Lorong Balai Raya Seri Kembangan, 70663 Kuala Pilah, Negeri Sembilan",3.174493,102.50255,1.84,Sederhana,2024-12-20 14:30,Tidak Aktif,331,166
+PPS-0317,BALAI RAYA TAMAN CEMPAKA,Tampin,Negeri Sembilan,"624, Lorong Balai Raya Taman Cempaka, 70676 Tampin, Negeri Sembilan",2.87172,102.564184,1.88,Sederhana,2022-03-12 14:45,Tidak Aktif,50,17
+PPS-0318,PUSAT KOMUNITI TANJUNG PUTERI,Kuala Pilah,Negeri Sembilan,"308, Lorong Pusat Komuniti Tanjung Puteri, 70319 Kuala Pilah, Negeri Sembilan",3.095763,102.317609,2.53,Tinggi,2024-01-17 17:15,Aktif,285,182
+PPS-0319,KOMPLEKS BUKIT TINGGI,Jelebu,Negeri Sembilan,"239, Persiaran Kompleks Bukit Tinggi, 70930 Jelebu, Negeri Sembilan",2.638408,102.167083,1.07,Rendah,2021-03-24 02:30,Tidak Aktif,138,249
+PPS-0320,MASJID TAMAN CONNAUGHT,Tampin,Negeri Sembilan,"658, Persiaran Masjid Taman Connaught, 70138 Tampin, Negeri Sembilan",3.399024,102.502848,3.36,Tinggi,2020-11-25 10:30,Tidak Aktif,272,213
+PPS-0321,KOMPLEKS TANJUNG PUTERI,Tampin,Negeri Sembilan,"650, Lebuh Kompleks Tanjung Puteri, 70155 Tampin, Negeri Sembilan",2.620541,102.57039,0.54,Rendah,2024-03-05 10:15,Aktif,394,201
+PPS-0322,MASJID KAMPUNG NELAYAN,Port Dickson,Negeri Sembilan,"443, Persiaran Masjid Kampung Nelayan, 70905 Port Dickson, Negeri Sembilan",3.25284,102.375255,1.63,Sederhana,2023-11-19 23:00,Aktif,184,43
+PPS-0323,DEWAN BANDAR BARU,Port Dickson,Negeri Sembilan,"493, Taman Dewan Bandar Baru, 70302 Port Dickson, Negeri Sembilan",3.001823,102.573825,2.15,Sederhana,2024-12-20 23:15,Aktif,186,220
+PPS-0324,MASJID TAMAN SETIA,Kuala Pilah,Negeri Sembilan,"434, Persiaran Masjid Taman Setia, 70456 Kuala Pilah, Negeri Sembilan",3.184738,102.376018,0.84,Rendah,2022-11-06 11:45,Tidak Aktif,275,22
+PPS-0325,DEWAN KUALA LUMPUR,Tampin,Negeri Sembilan,"116, Jalan Dewan Kuala Lumpur, 70348 Tampin, Negeri Sembilan",2.73349,102.485359,6.32,Kritikal,2020-01-11 22:00,Aktif,291,11
+PPS-0326,BALAIRAYA SRI PETALING,Kuala Pilah,Negeri Sembilan,"536, Persiaran Balairaya Sri Petaling, 70661 Kuala Pilah, Negeri Sembilan",2.70901,102.338005,2.23,Sederhana,2020-12-13 18:00,Aktif,80,145
+PPS-0327,SK GOMBAK SETIA,Jelebu,Negeri Sembilan,"671, Jalan Sk Gombak Setia, 70168 Jelebu, Negeri Sembilan",3.289188,102.417965,1.77,Sederhana,2020-01-01 09:45,Aktif,244,260
+PPS-0328,KOMPLEKS SRI PETALING,Seremban,Negeri Sembilan,"91, Lorong Kompleks Sri Petaling, 70303 Seremban, Negeri Sembilan",2.599604,102.115456,1.96,Sederhana,2020-11-08 16:30,Aktif,251,80
+PPS-0329,PUSAT KOMUNITI BUKIT TINGGI,Jempol,Negeri Sembilan,"514, Persiaran Pusat Komuniti Bukit Tinggi, 70931 Jempol, Negeri Sembilan",2.84678,102.151913,0.76,Rendah,2020-02-18 08:15,Aktif,251,70
+PPS-0330,KOMPLEKS KAMPUNG NELAYAN,Jempol,Negeri Sembilan,"428, Lorong Kompleks Kampung Nelayan, 70686 Jempol, Negeri Sembilan",3.22989,102.320718,1.47,Rendah,2022-03-15 17:15,Aktif,120,297
+PPS-0331,DEWAN BANDAR UTAMA,Rembau,Negeri Sembilan,"706, Taman Dewan Bandar Utama, 70238 Rembau, Negeri Sembilan",3.184049,102.00231,2.41,Sederhana,2024-12-06 10:00,Aktif,418,60
+PPS-0332,SK TAMAN CEMPAKA,Jelebu,Negeri Sembilan,"902, Lebuh Sk Taman Cempaka, 70521 Jelebu, Negeri Sembilan",2.817598,102.679638,1.25,Rendah,2021-01-25 06:00,Aktif,63,136
+PPS-0333,BALAIRAYA KAMPUNG NELAYAN,Rembau,Negeri Sembilan,"704, Jalan Balairaya Kampung Nelayan, 70467 Rembau, Negeri Sembilan",3.067043,102.030911,1.28,Rendah,2024-12-28 19:45,Tidak Aktif,241,94
+PPS-0334,DEWAN TAMAN MAJU,Tampin,Negeri Sembilan,"232, Jalan Dewan Taman Maju, 70518 Tampin, Negeri Sembilan",2.88746,102.273847,2.52,Tinggi,2023-01-08 23:15,Tidak Aktif,83,90
+PPS-0335,SMK GOMBAK SETIA,Port Dickson,Negeri Sembilan,"909, Lorong Smk Gombak Setia, 70537 Port Dickson, Negeri Sembilan",3.367129,102.289943,1.54,Sederhana,2022-02-13 19:00,Aktif,281,233
+PPS-0336,BALAIRAYA KAMPUNG ATTAP,Tampin,Negeri Sembilan,"551, Lebuh Balairaya Kampung Attap, 70852 Tampin, Negeri Sembilan",3.377767,102.67778,0.89,Rendah,2021-11-10 14:45,Tidak Aktif,446,146
+PPS-0337,SK KAMPUNG ATTAP,Port Dickson,Negeri Sembilan,"926, Lorong Sk Kampung Attap, 70574 Port Dickson, Negeri Sembilan",2.666487,102.09442,3.18,Tinggi,2020-03-06 18:15,Aktif,215,230
+PPS-0338,BALAIRAYA GOMBAK SETIA,Jempol,Negeri Sembilan,"93, Persiaran Balairaya Gombak Setia, 70431 Jempol, Negeri Sembilan",2.678879,102.390315,2.41,Sederhana,2020-12-03 03:45,Tidak Aktif,93,268
+PPS-0339,SEKOLAH WANGSA MAJU,Seremban,Negeri Sembilan,"973, Lorong Sekolah Wangsa Maju, 70487 Seremban, Negeri Sembilan",2.884087,102.591067,1.54,Sederhana,2022-12-19 21:15,Aktif,124,91
+PPS-0340,PUSAT KOMUNITI KAMPUNG PANDAN,Tampin,Negeri Sembilan,"296, Lorong Pusat Komuniti Kampung Pandan, 70220 Tampin, Negeri Sembilan",3.212047,102.219582,3.94,Tinggi,2024-11-25 08:00,Aktif,487,255
+PPS-0341,SURAU BUKIT TINGGI,Rembau,Negeri Sembilan,"223, Taman Surau Bukit Tinggi, 70775 Rembau, Negeri Sembilan",3.307455,102.407984,1.91,Sederhana,2024-11-20 00:15,Tidak Aktif,192,285
+PPS-0342,DEWAN TELUK INTAN,Tampin,Negeri Sembilan,"669, Persiaran Dewan Teluk Intan, 70137 Tampin, Negeri Sembilan",3.325253,101.848919,0.53,Rendah,2024-03-10 10:00,Aktif,263,91
+PPS-0343,KOMPLEKS KAMPUNG CHERAS,Melaka Tengah,Melaka,"807, Taman Kompleks Kampung Cheras, 75281 Melaka Tengah, Melaka",2.213752,102.330462,5.87,Kritikal,2020-01-03 09:30,Aktif,244,34
+PPS-0344,SURAU BANDAR BARU,Jasin,Melaka,"125, Persiaran Surau Bandar Baru, 75437 Jasin, Melaka",2.437324,102.032463,2.02,Sederhana,2024-12-02 03:00,Aktif,402,147
+PPS-0345,SEKOLAH KAMPUNG CHERAS,Jasin,Melaka,"639, Persiaran Sekolah Kampung Cheras, 75232 Jasin, Melaka",2.343538,102.158244,2.0,Sederhana,2023-02-26 05:15,Tidak Aktif,149,0
+PPS-0346,SMK FELDA PALONG,Alor Gajah,Melaka,"819, Taman Smk Felda Palong, 75524 Alor Gajah, Melaka",2.109595,102.31273,1.83,Sederhana,2021-03-01 20:15,Tidak Aktif,180,34
+PPS-0347,SK TAMAN JAYA,Jasin,Melaka,"703, Persiaran Sk Taman Jaya, 75449 Jasin, Melaka",2.220114,102.274997,2.07,Sederhana,2021-11-07 10:30,Tidak Aktif,295,242
+PPS-0348,SURAU SRI PETALING,Alor Gajah,Melaka,"918, Persiaran Surau Sri Petaling, 75573 Alor Gajah, Melaka",2.358261,102.240748,3.12,Tinggi,2024-11-10 18:30,Aktif,59,106
+PPS-0349,PUSAT KOMUNITI PADANG BESAR,Melaka Tengah,Melaka,"993, Lorong Pusat Komuniti Padang Besar, 75387 Melaka Tengah, Melaka",2.374197,102.399768,3.01,Tinggi,2024-02-27 05:45,Aktif,109,157
+PPS-0350,BALAIRAYA TAMAN SETIA,Melaka Tengah,Melaka,"89, Lebuh Balairaya Taman Setia, 75998 Melaka Tengah, Melaka",2.443128,102.35492,0.95,Rendah,2021-01-17 09:15,Aktif,451,19
+PPS-0351,SK BUKIT RAHMAN,Alor Gajah,Melaka,"927, Taman Sk Bukit Rahman, 75257 Alor Gajah, Melaka",2.465342,102.221887,1.42,Rendah,2022-03-25 10:15,Tidak Aktif,100,264
+PPS-0352,SK GOMBAK SETIA,Melaka Tengah,Melaka,"397, Taman Sk Gombak Setia, 75218 Melaka Tengah, Melaka",2.497088,102.102594,1.43,Rendah,2020-03-11 14:00,Aktif,442,159
+PPS-0353,DEWAN ORANG RAMAI TAMAN CEMPAKA,Alor Gajah,Melaka,"206, Lorong Dewan Orang Ramai Taman Cempaka, 75393 Alor Gajah, Melaka",2.331024,102.156071,0.82,Rendah,2020-02-09 04:15,Aktif,57,286
+PPS-0354,SEKOLAH TAMAN CEMPAKA,Melaka Tengah,Melaka,"278, Lorong Sekolah Taman Cempaka, 75821 Melaka Tengah, Melaka",2.14095,102.271264,3.36,Tinggi,2020-12-10 19:30,Aktif,75,66
+PPS-0355,SMK BATU PAHAT,Alor Gajah,Melaka,"56, Jalan Smk Batu Pahat, 75536 Alor Gajah, Melaka",2.288294,102.337748,2.2,Sederhana,2023-03-20 11:30,Aktif,151,273
+PPS-0356,SURAU KAMPUNG CHERAS,Alor Gajah,Melaka,"135, Jalan Surau Kampung Cheras, 75932 Alor Gajah, Melaka",2.489473,102.377871,3.55,Tinggi,2023-11-10 21:45,Aktif,164,73
+PPS-0357,MASJID KAWASAN BARU,Melaka Tengah,Melaka,"808, Persiaran Masjid Kawasan Baru, 75564 Melaka Tengah, Melaka",2.203221,102.181725,1.57,Sederhana,2022-11-16 14:15,Aktif,228,294
+PPS-0358,SMK TAMAN CEMPAKA,Alor Gajah,Melaka,"570, Jalan Smk Taman Cempaka, 75911 Alor Gajah, Melaka",2.30318,102.202843,0.96,Rendah,2023-03-08 19:15,Aktif,296,196
+PPS-0359,KOMPLEKS SRI ANDALAS,Alor Gajah,Melaka,"804, Lebuh Kompleks Sri Andalas, 75680 Alor Gajah, Melaka",2.236286,102.406958,3.32,Tinggi,2021-12-22 21:00,Tidak Aktif,414,293
+PPS-0360,PUSAT KOMUNITI TAMAN MEGAH,Jasin,Melaka,"100, Lebuh Pusat Komuniti Taman Megah, 75280 Jasin, Melaka",2.145729,102.298038,0.91,Rendah,2020-03-22 19:45,Aktif,380,31
+PPS-0361,KOMPLEKS TANJUNG PUTERI,Alor Gajah,Melaka,"776, Lorong Kompleks Tanjung Puteri, 75776 Alor Gajah, Melaka",2.187045,102.069458,1.03,Rendah,2024-02-19 14:15,Aktif,499,162
+PPS-0362,BALAIRAYA SRI ANDALAS,Jasin,Melaka,"736, Persiaran Balairaya Sri Andalas, 75191 Jasin, Melaka",2.328111,102.456602,2.11,Sederhana,2023-03-28 04:30,Aktif,331,27
+PPS-0363,PUSAT KOMUNITI TAMAN JAYA,Alor Gajah,Melaka,"882, Persiaran Pusat Komuniti Taman Jaya, 75986 Alor Gajah, Melaka",2.381342,102.410377,0.93,Rendah,2023-03-21 10:45,Aktif,272,279
+PPS-0364,DEWAN ORANG RAMAI TAMAN MEGAH,Alor Gajah,Melaka,"394, Persiaran Dewan Orang Ramai Taman Megah, 75960 Alor Gajah, Melaka",2.364995,102.237436,1.79,Sederhana,2021-12-01 02:00,Aktif,299,223
+PPS-0365,BALAI SERBAGUNA GOMBAK SETIA,Alor Gajah,Melaka,"916, Taman Balai Serbaguna Gombak Setia, 75535 Alor Gajah, Melaka",2.133865,102.321121,1.95,Sederhana,2024-02-27 14:45,Aktif,145,217
+PPS-0366,DEWAN ORANG RAMAI TAMAN DESA,Melaka Tengah,Melaka,"276, Lebuh Dewan Orang Ramai Taman Desa, 75659 Melaka Tengah, Melaka",2.102972,102.249078,1.53,Sederhana,2024-11-16 22:30,Aktif,296,40
+PPS-0367,BALAIRAYA GOMBAK SETIA,Alor Gajah,Melaka,"530, Jalan Balairaya Gombak Setia, 75635 Alor Gajah, Melaka",2.392074,102.263204,2.63,Tinggi,2020-02-22 20:30,Tidak Aktif,225,273
+PPS-0368,SURAU KAMPUNG CHERAS,Alor Gajah,Melaka,"752, Persiaran Surau Kampung Cheras, 75531 Alor Gajah, Melaka",2.287548,102.256332,2.48,Sederhana,2022-01-06 01:30,Tidak Aktif,338,133
+PPS-0369,KOMPLEKS TELUK INTAN,Alor Gajah,Melaka,"673, Persiaran Kompleks Teluk Intan, 75928 Alor Gajah, Melaka",2.35172,102.289071,2.54,Tinggi,2020-02-05 16:00,Tidak Aktif,192,129
+PPS-0370,BALAIRAYA TANJUNG PUTERI,Alor Gajah,Melaka,"760, Jalan Balairaya Tanjung Puteri, 75718 Alor Gajah, Melaka",2.346319,102.137609,1.09,Rendah,2023-12-12 05:30,Tidak Aktif,170,248
+PPS-0371,PUSAT KOMUNITI KUALA LUMPUR,Alor Gajah,Melaka,"991, Lorong Pusat Komuniti Kuala Lumpur, 75709 Alor Gajah, Melaka",2.419749,102.431007,4.39,Kritikal,2023-02-25 12:15,Tidak Aktif,421,85
+PPS-0372,SK TAMAN DAMAI,Alor Gajah,Melaka,"774, Jalan Sk Taman Damai, 75153 Alor Gajah, Melaka",2.331103,102.420917,0.9,Rendah,2023-01-24 17:15,Aktif,411,199
+PPS-0373,SK KAMPUNG MEDAN,Kudat,Sabah,"950, Lebuh Sk Kampung Medan, 88491 Kudat, Sabah",4.493509,118.807055,2.46,Sederhana,2020-11-18 20:30,Tidak Aktif,271,139
+PPS-0374,MASJID BANDAR KINRARA,Lahad Datu,Sabah,"401, Lebuh Masjid Bandar Kinrara, 88891 Lahad Datu, Sabah",4.919109,118.548802,1.74,Sederhana,2021-03-17 10:15,Aktif,55,4
+PPS-0375,SMK KAMPUNG PANDAN,Keningau,Sabah,"360, Lorong Smk Kampung Pandan, 88842 Keningau, Sabah",4.040669,115.871255,0.69,Rendah,2024-11-03 01:15,Tidak Aktif,376,62
+PPS-0376,BALAI RAYA KAMPUNG CHERAS,Keningau,Sabah,"823, Lorong Balai Raya Kampung Cheras, 88213 Keningau, Sabah",4.293714,117.797806,1.75,Sederhana,2020-02-21 14:30,Tidak Aktif,404,165
+PPS-0377,SK BATU PAHAT,Kudat,Sabah,"398, Persiaran Sk Batu Pahat, 88161 Kudat, Sabah",4.550685,115.781189,1.31,Rendah,2023-12-03 15:15,Tidak Aktif,141,251
+PPS-0378,BALAIRAYA WANGSA MAJU,Keningau,Sabah,"659, Jalan Balairaya Wangsa Maju, 88552 Keningau, Sabah",4.489167,118.421088,2.65,Tinggi,2020-11-19 23:30,Tidak Aktif,59,254
+PPS-0379,SK BATU PAHAT,Kota Belud,Sabah,"273, Lorong Sk Batu Pahat, 88816 Kota Belud, Sabah",6.219742,115.503297,0.89,Rendah,2024-11-23 15:45,Aktif,482,35
+PPS-0380,SEKOLAH TAMAN JAYA,Semporna,Sabah,"581, Taman Sekolah Taman Jaya, 88467 Semporna, Sabah",4.767879,116.960811,0.8,Rendah,2020-11-12 17:30,Aktif,285,148
+PPS-0381,BALAI RAYA TAMAN MAJU,Tuaran,Sabah,"307, Lebuh Balai Raya Taman Maju, 88209 Tuaran, Sabah",4.69061,117.607007,1.86,Sederhana,2023-11-24 06:15,Aktif,62,122
+PPS-0382,MASJID KAMPUNG KERINCHI,Sandakan,Sabah,"547, Lebuh Masjid Kampung Kerinchi, 88116 Sandakan, Sabah",5.32181,118.512409,0.56,Rendah,2023-11-04 06:45,Tidak Aktif,495,274
+PPS-0383,SMK KAMPUNG BARU,Kota Belud,Sabah,"754, Lorong Smk Kampung Baru, 88600 Kota Belud, Sabah",6.519575,116.385346,1.97,Sederhana,2020-03-08 22:15,Aktif,373,25
+PPS-0384,SURAU GUNUNG RAPAT,Kudat,Sabah,"856, Taman Surau Gunung Rapat, 88165 Kudat, Sabah",6.790513,115.869711,2.66,Tinggi,2024-02-26 19:15,Aktif,153,218
+PPS-0385,BALAI RAYA TAMAN CEMPAKA,Lahad Datu,Sabah,"124, Taman Balai Raya Taman Cempaka, 88658 Lahad Datu, Sabah",6.759172,119.232332,1.34,Rendah,2020-12-19 05:30,Aktif,190,72
+PPS-0386,DEWAN KAMPUNG PANDAN,Papar,Sabah,"250, Taman Dewan Kampung Pandan, 88141 Papar, Sabah",4.571373,116.905724,1.29,Rendah,2023-03-25 05:00,Tidak Aktif,91,3
+PPS-0387,SURAU KAMPUNG MEDAN,Beaufort,Sabah,"427, Lebuh Surau Kampung Medan, 88808 Beaufort, Sabah",4.610004,115.838737,0.64,Rendah,2024-01-15 13:15,Tidak Aktif,362,19
+PPS-0388,SMK BANDAR UTAMA,Tawau,Sabah,"357, Lebuh Smk Bandar Utama, 88104 Tawau, Sabah",4.612002,117.399573,1.69,Sederhana,2020-03-20 11:15,Aktif,370,106
+PPS-0389,DEWAN BUKIT RAHMAN,Kudat,Sabah,"510, Lorong Dewan Bukit Rahman, 88263 Kudat, Sabah",4.180435,115.928181,1.54,Sederhana,2022-01-07 13:30,Aktif,462,232
+PPS-0390,KOMPLEKS SUKAN SIMPANG LIMA,Beaufort,Sabah,"162, Jalan Kompleks Sukan Simpang Lima, 88596 Beaufort, Sabah",4.355032,115.699335,1.57,Sederhana,2023-12-19 18:30,Aktif,432,166
+PPS-0391,SMK BUKIT TINGGI,Kota Kinabalu,Sabah,"756, Lebuh Smk Bukit Tinggi, 88990 Kota Kinabalu, Sabah",6.648516,116.739302,1.39,Rendah,2023-11-19 15:00,Tidak Aktif,124,110
+PPS-0392,DEWAN GOMBAK SETIA,Tawau,Sabah,"738, Lorong Dewan Gombak Setia, 88747 Tawau, Sabah",5.546969,116.971855,1.77,Sederhana,2021-01-02 22:00,Aktif,106,238
+PPS-0393,BALAIRAYA KAMPUNG MEDAN,Sandakan,Sabah,"619, Lorong Balairaya Kampung Medan, 88908 Sandakan, Sabah",5.421961,118.38929,3.93,Tinggi,2024-12-18 07:00,Aktif,317,250
+PPS-0394,MASJID TANJUNG PUTERI,Kota Kinabalu,Sabah,"748, Lebuh Masjid Tanjung Puteri, 88853 Kota Kinabalu, Sabah",6.011375,118.680558,2.87,Tinggi,2024-02-08 18:15,Tidak Aktif,52,213
+PPS-0395,KOMPLEKS SUKAN KAMPUNG BARU,Beaufort,Sabah,"436, Taman Kompleks Sukan Kampung Baru, 88503 Beaufort, Sabah",4.1362,117.28848,2.3,Sederhana,2023-11-16 07:00,Aktif,56,208
+PPS-0396,SMK BUKIT MERAH,Kota Kinabalu,Sabah,"492, Persiaran Smk Bukit Merah, 88265 Kota Kinabalu, Sabah",4.451221,116.624004,3.79,Tinggi,2020-03-15 14:15,Tidak Aktif,257,94
+PPS-0397,SK PADANG BESAR,Lahad Datu,Sabah,"395, Persiaran Sk Padang Besar, 88643 Lahad Datu, Sabah",6.131157,118.174828,0.93,Rendah,2024-01-18 18:15,Tidak Aktif,91,171
+PPS-0398,PUSAT KOMUNITI TELUK INTAN,Beaufort,Sabah,"114, Lebuh Pusat Komuniti Teluk Intan, 88474 Beaufort, Sabah",5.750104,118.958016,1.54,Sederhana,2021-01-21 17:00,Aktif,446,104
+PPS-0399,SMK BUKIT RAHMAN,Kota Belud,Sabah,"756, Taman Smk Bukit Rahman, 88992 Kota Belud, Sabah",7.336256,116.406804,4.52,Kritikal,2022-12-12 08:45,Aktif,82,190
+PPS-0400,SMK BUKIT RAHMAN,Lahad Datu,Sabah,"727, Taman Smk Bukit Rahman, 88794 Lahad Datu, Sabah",5.538196,117.40551,3.85,Tinggi,2024-02-12 21:00,Aktif,284,44
+PPS-0401,SMK SERI KEMBANGAN,Keningau,Sabah,"169, Persiaran Smk Seri Kembangan, 88214 Keningau, Sabah",5.328321,116.179485,2.0,Sederhana,2024-12-21 00:30,Aktif,399,277
+PPS-0402,SK KAMPUNG MEDAN,Kota Belud,Sabah,"194, Jalan Sk Kampung Medan, 88122 Kota Belud, Sabah",5.611277,117.096494,2.85,Tinggi,2022-03-14 18:30,Tidak Aktif,452,167
+PPS-0403,KOMPLEKS SUKAN KAMPUNG PANDAN,Sandakan,Sabah,"469, Persiaran Kompleks Sukan Kampung Pandan, 88680 Sandakan, Sabah",6.017415,118.148082,1.29,Rendah,2022-12-08 15:30,Tidak Aktif,444,24
+PPS-0404,DEWAN WANGSA MAJU,Kota Belud,Sabah,"947, Lorong Dewan Wangsa Maju, 88828 Kota Belud, Sabah",5.200611,117.232521,1.68,Sederhana,2021-12-06 07:00,Aktif,212,294
+PPS-0405,BALAIRAYA TAMAN MEGAH,Kota Belud,Sabah,"725, Jalan Balairaya Taman Megah, 88781 Kota Belud, Sabah",5.499021,116.904754,0.84,Rendah,2023-01-18 05:30,Aktif,62,207
+PPS-0406,PUSAT KOMUNITI PAYA BESAR,Sandakan,Sabah,"5, Taman Pusat Komuniti Paya Besar, 88619 Sandakan, Sabah",6.612962,119.101598,1.21,Rendah,2022-02-25 18:15,Tidak Aktif,423,226
+PPS-0407,SK BANDAR BARU,Lahad Datu,Sabah,"695, Taman Sk Bandar Baru, 88219 Lahad Datu, Sabah",6.3431,118.280234,0.9,Rendah,2023-12-12 02:30,Aktif,378,99
+PPS-0408,MASJID TAMAN MAJU,Tawau,Sabah,"24, Jalan Masjid Taman Maju, 88651 Tawau, Sabah",5.789875,118.468877,3.52,Tinggi,2024-11-13 06:45,Aktif,359,261
+PPS-0409,DEWAN SRI ANDALAS,Beaufort,Sabah,"379, Lebuh Dewan Sri Andalas, 88481 Beaufort, Sabah",7.08872,116.872047,0.84,Rendah,2023-01-28 17:00,Aktif,277,212
+PPS-0410,BALAI RAYA TAMAN SETIA,Sandakan,Sabah,"143, Taman Balai Raya Taman Setia, 88712 Sandakan, Sabah",4.981356,118.561557,0.71,Rendah,2024-02-11 02:45,Aktif,259,139
+PPS-0411,SURAU BANDAR BARU,Papar,Sabah,"205, Lorong Surau Bandar Baru, 88952 Papar, Sabah",4.594636,117.256056,2.05,Sederhana,2022-11-27 18:30,Aktif,428,237
+PPS-0412,MASJID BANDAR UTAMA,Kota Kinabalu,Sabah,"979, Lebuh Masjid Bandar Utama, 88227 Kota Kinabalu, Sabah",4.091256,115.509297,2.39,Sederhana,2021-02-16 22:15,Aktif,441,141
+PPS-0413,BALAI SERBAGUNA KAMPUNG CHERAS,Betong,Sarawak,"447, Persiaran Balai Serbaguna Kampung Cheras, 93743 Betong, Sarawak",3.315344,111.670557,2.47,Sederhana,2022-11-17 23:00,Tidak Aktif,133,297
+PPS-0414,DEWAN ORANG RAMAI KAMPUNG PARIT,Bau,Sarawak,"168, Jalan Dewan Orang Ramai Kampung Parit, 93379 Bau, Sarawak",1.413776,112.266264,2.14,Sederhana,2020-01-10 09:00,Aktif,442,93
+PPS-0415,MASJID TAMAN CEMPAKA,Betong,Sarawak,"847, Persiaran Masjid Taman Cempaka, 93377 Betong, Sarawak",3.314802,110.502816,2.19,Sederhana,2024-11-19 11:15,Aktif,315,144
+PPS-0416,DEWAN ORANG RAMAI SERI KEMBANGAN,Miri,Sarawak,"224, Lorong Dewan Orang Ramai Seri Kembangan, 93615 Miri, Sarawak",4.070993,111.971967,0.69,Rendah,2024-03-23 16:00,Aktif,89,59
+PPS-0417,PUSAT KOMUNITI TANJUNG BIDARA,Kapit,Sarawak,"143, Lebuh Pusat Komuniti Tanjung Bidara, 93711 Kapit, Sarawak",4.678321,112.377109,2.47,Sederhana,2022-12-01 23:00,Aktif,488,72
+PPS-0418,SMK SRI ANDALAS,Kuching,Sarawak,"708, Jalan Smk Sri Andalas, 93179 Kuching, Sarawak",2.091199,110.759046,0.98,Rendah,2020-02-07 03:00,Tidak Aktif,312,30
+PPS-0419,SMK BANDAR UTAMA,Sarikei,Sarawak,"684, Jalan Smk Bandar Utama, 93872 Sarikei, Sarawak",1.299473,111.018075,0.62,Rendah,2021-03-19 06:15,Tidak Aktif,64,46
+PPS-0420,KOMPLEKS KAMPUNG PARIT,Kapit,Sarawak,"361, Lorong Kompleks Kampung Parit, 93975 Kapit, Sarawak",4.352618,115.15107,2.23,Sederhana,2024-12-19 02:00,Tidak Aktif,440,7
+PPS-0421,PUSAT KOMUNITI GUNUNG RAPAT,Sibu,Sarawak,"924, Taman Pusat Komuniti Gunung Rapat, 93104 Sibu, Sarawak",1.711392,110.649285,4.25,Kritikal,2024-12-28 22:45,Aktif,351,94
+PPS-0422,MASJID BATU PAHAT,Sarikei,Sarawak,"435, Lorong Masjid Batu Pahat, 93626 Sarikei, Sarawak",3.628808,110.143947,0.61,Rendah,2020-01-15 03:15,Aktif,234,147
+PPS-0423,BALAI SERBAGUNA TAMAN JAYA,Sibu,Sarawak,"395, Persiaran Balai Serbaguna Taman Jaya, 93567 Sibu, Sarawak",3.832974,109.993488,1.81,Sederhana,2021-02-18 13:30,Tidak Aktif,269,96
+PPS-0424,MASJID SIMPANG LIMA,Betong,Sarawak,"14, Lebuh Masjid Simpang Lima, 93788 Betong, Sarawak",4.55797,114.314618,0.94,Rendah,2020-11-05 12:45,Tidak Aktif,102,86
+PPS-0425,BALAIRAYA TAMAN CONNAUGHT,Betong,Sarawak,"865, Lebuh Balairaya Taman Connaught, 93225 Betong, Sarawak",2.327582,110.694518,0.92,Rendah,2022-02-25 22:30,Tidak Aktif,460,204
+PPS-0426,GEREJA KAMPUNG KERINCHI,Miri,Sarawak,"524, Persiaran Gereja Kampung Kerinchi, 93250 Miri, Sarawak",2.79847,113.118993,2.66,Tinggi,2023-01-16 07:15,Aktif,427,27
+PPS-0427,DEWAN ORANG RAMAI BATU PAHAT,Betong,Sarawak,"620, Persiaran Dewan Orang Ramai Batu Pahat, 93256 Betong, Sarawak",2.892167,109.660493,1.12,Rendah,2024-11-25 15:45,Aktif,388,254
+PPS-0428,SEKOLAH SRI PETALING,Sarikei,Sarawak,"19, Jalan Sekolah Sri Petaling, 93540 Sarikei, Sarawak",2.920138,112.754629,2.68,Tinggi,2022-02-28 12:45,Aktif,66,90
+PPS-0429,DEWAN ORANG RAMAI KAMPUNG KERINCHI,Sibu,Sarawak,"442, Lorong Dewan Orang Ramai Kampung Kerinchi, 93419 Sibu, Sarawak",3.569526,114.176295,3.23,Tinggi,2024-11-22 15:45,Aktif,487,80
+PPS-0430,KOMPLEKS BATU PAHAT,Sibu,Sarawak,"632, Persiaran Kompleks Batu Pahat, 93884 Sibu, Sarawak",1.034096,111.080346,4.8,Kritikal,2024-11-02 04:30,Aktif,429,298
+PPS-0431,GEREJA SERI KEMBANGAN,Bau,Sarawak,"439, Persiaran Gereja Seri Kembangan, 93465 Bau, Sarawak",4.013815,113.250918,1.56,Sederhana,2021-12-08 20:30,Aktif,402,33
+PPS-0432,SEKOLAH TAMAN CEMPAKA,Limbang,Sarawak,"39, Lebuh Sekolah Taman Cempaka, 93773 Limbang, Sarawak",1.280779,110.518675,3.35,Tinggi,2022-02-01 22:45,Aktif,212,193
+PPS-0433,BALAI SERBAGUNA SERI KEMBANGAN,Sri Aman,Sarawak,"708, Lorong Balai Serbaguna Seri Kembangan, 93444 Sri Aman, Sarawak",2.439263,112.935232,2.31,Sederhana,2021-01-20 09:30,Tidak Aktif,153,254
+PPS-0434,PUSAT KOMUNITI TAMAN DAMAI,Betong,Sarawak,"49, Persiaran Pusat Komuniti Taman Damai, 93687 Betong, Sarawak",4.329598,112.715004,1.73,Sederhana,2024-11-04 18:30,Aktif,340,271
+PPS-0435,SMK BANDAR UTAMA,Sarikei,Sarawak,"517, Persiaran Smk Bandar Utama, 93543 Sarikei, Sarawak",2.593845,111.583899,1.81,Sederhana,2023-02-09 19:45,Tidak Aktif,330,92
+PPS-0436,DEWAN ORANG RAMAI KAMPUNG CHERAS,Bau,Sarawak,"512, Lorong Dewan Orang Ramai Kampung Cheras, 93776 Bau, Sarawak",3.436945,112.597345,5.86,Kritikal,2022-02-21 17:45,Tidak Aktif,422,30
+PPS-0437,BALAIRAYA PAYA BESAR,Sibu,Sarawak,"765, Persiaran Balairaya Paya Besar, 93964 Sibu, Sarawak",1.642722,112.27492,1.82,Sederhana,2021-11-28 13:30,Tidak Aktif,380,82
+PPS-0438,BALAIRAYA TAMAN JAYA,Limbang,Sarawak,"154, Lorong Balairaya Taman Jaya, 93128 Limbang, Sarawak",3.684791,110.916779,1.33,Rendah,2023-02-18 13:45,Tidak Aktif,68,103
+PPS-0439,PUSAT KOMUNITI TAMAN MEGAH,Kapit,Sarawak,"181, Jalan Pusat Komuniti Taman Megah, 93839 Kapit, Sarawak",1.94539,109.674851,1.52,Sederhana,2022-11-20 09:00,Tidak Aktif,258,186
+PPS-0440,DEWAN ORANG RAMAI BUKIT TINGGI,Betong,Sarawak,"115, Taman Dewan Orang Ramai Bukit Tinggi, 93852 Betong, Sarawak",2.466959,114.538863,1.62,Sederhana,2024-03-09 15:00,Aktif,112,160
+PPS-0441,BALAIRAYA SRI ANDALAS,Miri,Sarawak,"224, Lorong Balairaya Sri Andalas, 93209 Miri, Sarawak",4.295803,113.923418,1.47,Rendah,2023-02-09 18:00,Aktif,241,57
+PPS-0442,BALAIRAYA SRI GOMBAK,Miri,Sarawak,"901, Lorong Balairaya Sri Gombak, 93471 Miri, Sarawak",3.092129,112.349125,1.87,Sederhana,2020-01-21 19:00,Tidak Aktif,389,27
+PPS-0443,MASJID TAMAN JAYA,Kuching,Sarawak,"548, Lorong Masjid Taman Jaya, 93978 Kuching, Sarawak",1.862528,111.808141,1.51,Sederhana,2022-02-10 02:15,Aktif,490,82
+PPS-0444,GEREJA KAMPUNG BARU,Sarikei,Sarawak,"281, Jalan Gereja Kampung Baru, 93942 Sarikei, Sarawak",3.451681,114.776803,3.24,Tinggi,2022-02-23 13:00,Tidak Aktif,407,133
+PPS-0445,SEKOLAH TAMAN CEMPAKA,Sibu,Sarawak,"465, Jalan Sekolah Taman Cempaka, 93880 Sibu, Sarawak",1.078742,112.025223,1.14,Rendah,2021-02-01 12:15,Tidak Aktif,210,294
+PPS-0446,DEWAN ORANG RAMAI TAMAN CONNAUGHT,Betong,Sarawak,"703, Lebuh Dewan Orang Ramai Taman Connaught, 93911 Betong, Sarawak",1.265478,110.997621,5.13,Kritikal,2022-12-06 21:30,Tidak Aktif,151,43
+PPS-0447,GEREJA KAMPUNG CHERAS,Mukah,Sarawak,"230, Jalan Gereja Kampung Cheras, 93123 Mukah, Sarawak",2.343918,111.860965,5.62,Kritikal,2020-12-15 06:30,Tidak Aktif,136,25
+PPS-0448,DEWAN ORANG RAMAI KUALA LUMPUR,Mukah,Sarawak,"982, Persiaran Dewan Orang Ramai Kuala Lumpur, 93274 Mukah, Sarawak",3.395617,113.102356,4.29,Kritikal,2023-03-25 14:45,Aktif,415,104
+PPS-0449,PUSAT KOMUNITI KAMPUNG MEDAN,Kuching,Sarawak,"765, Lebuh Pusat Komuniti Kampung Medan, 93491 Kuching, Sarawak",4.77342,114.380475,1.36,Rendah,2021-03-27 09:15,Aktif,259,74
+PPS-0450,KOMPLEKS KAMPUNG PANDAN,Bau,Sarawak,"930, Lorong Kompleks Kampung Pandan, 93478 Bau, Sarawak",2.01881,111.070797,2.15,Sederhana,2020-11-16 04:30,Tidak Aktif,253,108
+PPS-0451,PUSAT KOMUNITI PADANG BESAR,Mukah,Sarawak,"98, Taman Pusat Komuniti Padang Besar, 93160 Mukah, Sarawak",3.775503,113.916625,1.43,Rendah,2022-02-20 21:00,Aktif,308,195
+PPS-0452,DEWAN ORANG RAMAI TAMAN MEGAH,Limbang,Sarawak,"43, Taman Dewan Orang Ramai Taman Megah, 93283 Limbang, Sarawak",4.9056,113.527572,1.0,Rendah,2023-01-05 02:30,Tidak Aktif,271,72
+PPS-0453,SURAU SRI GOMBAK,Arau,Perlis,"766, Persiaran Surau Sri Gombak, 02540 Arau, Perlis",6.425308,100.489258,1.38,Rendah,2022-03-17 10:45,Tidak Aktif,211,251
+PPS-0454,SURAU TELUK INTAN,Arau,Perlis,"194, Lorong Surau Teluk Intan, 02155 Arau, Perlis",6.52227,100.461426,0.54,Rendah,2021-01-23 14:45,Aktif,303,20
+PPS-0455,SURAU GOMBAK SETIA,Kangar,Perlis,"505, Jalan Surau Gombak Setia, 02966 Kangar, Perlis",6.442608,100.354515,2.72,Tinggi,2020-01-07 09:15,Tidak Aktif,433,260
+PPS-0456,DEWAN ORANG RAMAI BANDAR KINRARA,Kangar,Perlis,"995, Jalan Dewan Orang Ramai Bandar Kinrara, 02638 Kangar, Perlis",6.525299,100.331569,2.77,Tinggi,2021-11-25 15:00,Tidak Aktif,63,145
+PPS-0457,PUSAT KOMUNITI BANDAR KINRARA,Padang Besar,Perlis,"952, Jalan Pusat Komuniti Bandar Kinrara, 02957 Padang Besar, Perlis",6.692534,100.060995,0.53,Rendah,2023-02-15 20:30,Aktif,52,168
+PPS-0458,PUSAT KOMUNITI KAMPUNG CHERAS,Arau,Perlis,"133, Lorong Pusat Komuniti Kampung Cheras, 02983 Arau, Perlis",6.562469,100.475448,1.14,Rendah,2020-01-24 02:45,Aktif,180,91
+PPS-0459,MASJID BUKIT MERAH,Arau,Perlis,"873, Lorong Masjid Bukit Merah, 02266 Arau, Perlis",6.68602,100.432758,1.9,Sederhana,2020-12-10 15:45,Tidak Aktif,208,67
+PPS-0460,SEKOLAH TAMAN MAJU,Kangar,Perlis,"502, Lebuh Sekolah Taman Maju, 02497 Kangar, Perlis",6.566208,100.416026,2.06,Sederhana,2020-02-25 13:30,Tidak Aktif,272,218
+PPS-0461,SURAU KAMPUNG NELAYAN,Arau,Perlis,"664, Lorong Surau Kampung Nelayan, 02607 Arau, Perlis",6.316175,100.170872,2.15,Sederhana,2022-11-15 13:00,Tidak Aktif,294,153
+PPS-0462,SMK BUKIT TINGGI,Arau,Perlis,"536, Lebuh Smk Bukit Tinggi, 02402 Arau, Perlis",6.693674,100.342157,2.05,Sederhana,2024-11-04 16:45,Aktif,287,291
+PPS-0463,SEKOLAH BUKIT MERAH,Kangar,Perlis,"117, Lebuh Sekolah Bukit Merah, 02283 Kangar, Perlis",6.442183,100.292784,3.76,Tinggi,2020-11-14 22:30,Aktif,420,232
+PPS-0464,PUSAT KOMUNITI SIMPANG LIMA,Padang Besar,Perlis,"217, Lorong Pusat Komuniti Simpang Lima, 02180 Padang Besar, Perlis",6.479979,100.403917,3.41,Tinggi,2023-11-18 00:00,Aktif,56,87
+PPS-0465,KOMPLEKS KAMPUNG KERINCHI,Padang Besar,Perlis,"311, Taman Kompleks Kampung Kerinchi, 02932 Padang Besar, Perlis",6.490848,100.345903,4.9,Kritikal,2022-02-03 04:15,Aktif,107,8
+PPS-0466,DEWAN ORANG RAMAI BUKIT RAHMAN,Padang Besar,Perlis,"665, Lorong Dewan Orang Ramai Bukit Rahman, 02765 Padang Besar, Perlis",6.688208,100.429506,1.34,Rendah,2021-03-03 09:45,Aktif,266,11
+PPS-0467,SURAU KAMPUNG KERINCHI,Arau,Perlis,"483, Jalan Surau Kampung Kerinchi, 02980 Arau, Perlis",6.366442,100.076211,1.74,Sederhana,2024-01-27 12:00,Aktif,102,221
+PPS-0468,KOMPLEKS TAMAN MEGAH,Kangar,Perlis,"298, Jalan Kompleks Taman Megah, 02599 Kangar, Perlis",6.639447,100.368539,2.01,Sederhana,2023-03-08 22:00,Aktif,266,295
+PPS-0469,BALAI RAYA BUKIT RAHMAN,Kangar,Perlis,"120, Lebuh Balai Raya Bukit Rahman, 02737 Kangar, Perlis",6.521302,100.133924,4.87,Kritikal,2020-02-06 09:15,Aktif,274,118
+PPS-0470,PUSAT KOMUNITI TAMAN CONNAUGHT,Padang Besar,Perlis,"874, Lebuh Pusat Komuniti Taman Connaught, 02234 Padang Besar, Perlis",6.387881,100.454535,3.58,Tinggi,2023-02-27 21:30,Tidak Aktif,459,82
+PPS-0471,MASJID BUKIT RAHMAN,Padang Besar,Perlis,"133, Lorong Masjid Bukit Rahman, 02304 Padang Besar, Perlis",6.382883,100.345349,0.99,Rendah,2023-02-10 07:15,Aktif,59,183
+PPS-0472,SEKOLAH KAMPUNG BARU,Kangar,Perlis,"827, Jalan Sekolah Kampung Baru, 02445 Kangar, Perlis",6.442818,100.079303,2.12,Sederhana,2024-11-08 15:30,Tidak Aktif,451,181
+PPS-0473,BALAIRAYA TAMAN DESA,Arau,Perlis,"619, Jalan Balairaya Taman Desa, 02823 Arau, Perlis",6.608038,100.278511,1.45,Rendah,2020-02-04 19:00,Tidak Aktif,71,259
+PPS-0474,DEWAN ORANG RAMAI TANJUNG BIDARA,Arau,Perlis,"161, Persiaran Dewan Orang Ramai Tanjung Bidara, 02825 Arau, Perlis",6.366819,100.05903,2.01,Sederhana,2021-11-21 11:30,Tidak Aktif,112,103
+PPS-0475,SK BUKIT TINGGI,Kangar,Perlis,"855, Lebuh Sk Bukit Tinggi, 02449 Kangar, Perlis",6.687855,100.38461,0.67,Rendah,2022-01-23 13:30,Tidak Aktif,175,77
+PPS-0476,BALAI RAYA TAMAN SETIA,Padang Besar,Perlis,"941, Lebuh Balai Raya Taman Setia, 02569 Padang Besar, Perlis",6.468689,100.114091,5.29,Kritikal,2020-01-15 04:00,Tidak Aktif,314,35
+PPS-0477,BALAIRAYA SRI ANDALAS,Arau,Perlis,"63, Lebuh Balairaya Sri Andalas, 02877 Arau, Perlis",6.435321,100.200825,1.42,Rendah,2024-12-02 20:30,Aktif,398,283
+PPS-0478,PUSAT KOMUNITI TANJUNG PUTERI,Kangar,Perlis,"847, Persiaran Pusat Komuniti Tanjung Puteri, 02640 Kangar, Perlis",6.58862,100.156848,1.65,Sederhana,2023-02-21 06:45,Tidak Aktif,465,207
+PPS-0479,SEKOLAH KAWASAN BARU,Arau,Perlis,"400, Lorong Sekolah Kawasan Baru, 02632 Arau, Perlis",6.65239,100.04214,4.71,Kritikal,2024-11-18 09:30,Tidak Aktif,131,11
+PPS-0480,SMK BUKIT TINGGI,Arau,Perlis,"853, Persiaran Smk Bukit Tinggi, 02843 Arau, Perlis",6.656128,100.269966,2.01,Sederhana,2022-11-09 20:30,Aktif,437,63
+PPS-0481,SURAU KAWASAN BARU,Kangar,Perlis,"242, Taman Surau Kawasan Baru, 02679 Kangar, Perlis",6.419184,100.368429,3.91,Tinggi,2024-03-08 11:30,Aktif,451,293
+PPS-0482,DEWAN ORANG RAMAI SERI KEMBANGAN,Padang Besar,Perlis,"336, Taman Dewan Orang Ramai Seri Kembangan, 02696 Padang Besar, Perlis",6.355989,100.188833,1.28,Rendah,2020-02-05 22:45,Tidak Aktif,91,47
+PPS-0483,DEWAN ORANG RAMAI KAMPUNG PANDAN,Arau,Perlis,"80, Persiaran Dewan Orang Ramai Kampung Pandan, 02793 Arau, Perlis",6.469955,100.065032,2.09,Sederhana,2023-03-28 08:45,Tidak Aktif,275,250
+PPS-0484,BALAIRAYA TAMAN DESA,Padang Besar,Perlis,"131, Lebuh Balairaya Taman Desa, 02828 Padang Besar, Perlis",6.689309,100.411906,2.47,Sederhana,2024-03-04 22:15,Aktif,66,80
+PPS-0485,KOMPLEKS TAMAN SETIA,Padang Besar,Perlis,"113, Jalan Kompleks Taman Setia, 02478 Padang Besar, Perlis",6.447733,100.475911,1.54,Sederhana,2020-12-12 09:30,Aktif,298,14
+PPS-0486,PUSAT KOMUNITI KAMPUNG MEDAN,Kepong,Kuala Lumpur,"221, Lorong Pusat Komuniti Kampung Medan, 50938 Kepong, Kuala Lumpur",3.235138,101.684351,2.5,Tinggi,2022-03-03 01:45,Aktif,208,289
+PPS-0487,DEWAN ORANG RAMAI TAMAN CONNAUGHT,Lembah Pantai,Kuala Lumpur,"136, Lorong Dewan Orang Ramai Taman Connaught, 50616 Lembah Pantai, Kuala Lumpur",3.270086,101.75627,2.26,Sederhana,2021-02-28 23:30,Aktif,369,209
+PPS-0488,SEKOLAH KAMPUNG BARU,Lembah Pantai,Kuala Lumpur,"982, Lebuh Sekolah Kampung Baru, 50853 Lembah Pantai, Kuala Lumpur",3.069847,101.679079,0.59,Rendah,2020-12-19 20:30,Aktif,113,286
+PPS-0489,BALAI SERBAGUNA TELUK INTAN,Cheras,Kuala Lumpur,"981, Taman Balai Serbaguna Teluk Intan, 50634 Cheras, Kuala Lumpur",3.057728,101.723741,0.98,Rendah,2020-11-22 17:15,Tidak Aktif,190,105
+PPS-0490,BALAI SERBAGUNA KAMPUNG PANDAN,Kepong,Kuala Lumpur,"87, Taman Balai Serbaguna Kampung Pandan, 50721 Kepong, Kuala Lumpur",3.248907,101.767783,1.09,Rendah,2020-02-11 13:15,Aktif,490,270
+PPS-0491,SMK SRI PETALING,Keramat,Kuala Lumpur,"173, Persiaran Smk Sri Petaling, 50247 Keramat, Kuala Lumpur",3.114603,101.618205,1.27,Rendah,2022-12-14 21:15,Aktif,216,92
+PPS-0492,SMK TAMAN CEMPAKA,Cheras,Kuala Lumpur,"146, Lebuh Smk Taman Cempaka, 50431 Cheras, Kuala Lumpur",3.21399,101.659605,1.44,Rendah,2020-11-07 07:15,Aktif,435,258
+PPS-0493,BALAIRAYA GOMBAK SETIA,Lembah Pantai,Kuala Lumpur,"567, Lebuh Balairaya Gombak Setia, 50167 Lembah Pantai, Kuala Lumpur",3.284807,101.653858,1.91,Sederhana,2020-12-09 17:00,Aktif,334,64
+PPS-0494,SEKOLAH FELDA PALONG,Keramat,Kuala Lumpur,"802, Lorong Sekolah Felda Palong, 50482 Keramat, Kuala Lumpur",3.170474,101.689196,1.67,Sederhana,2024-12-14 17:45,Aktif,466,237
+PPS-0495,DEWAN KOMUNITI TANJUNG PUTERI,Wangsa Maju,Kuala Lumpur,"62, Lebuh Dewan Komuniti Tanjung Puteri, 50379 Wangsa Maju, Kuala Lumpur",3.186219,101.730612,2.34,Sederhana,2022-02-27 20:15,Aktif,311,144
+PPS-0496,SMK BANDAR UTAMA,Cheras,Kuala Lumpur,"92, Lebuh Smk Bandar Utama, 50815 Cheras, Kuala Lumpur",3.048425,101.706818,0.64,Rendah,2022-03-14 06:30,Tidak Aktif,225,133
+PPS-0497,BALAIRAYA KAWASAN BARU,Wangsa Maju,Kuala Lumpur,"216, Lebuh Balairaya Kawasan Baru, 50713 Wangsa Maju, Kuala Lumpur",3.212326,101.654603,1.41,Rendah,2020-12-20 15:00,Tidak Aktif,394,88
+PPS-0498,DEWAN ORANG RAMAI KAMPUNG JAWA,Lembah Pantai,Kuala Lumpur,"552, Jalan Dewan Orang Ramai Kampung Jawa, 50906 Lembah Pantai, Kuala Lumpur",3.166737,101.739298,3.48,Tinggi,2020-03-27 21:45,Tidak Aktif,230,192
+PPS-0499,SK TAMAN JAYA,Wangsa Maju,Kuala Lumpur,"474, Persiaran Sk Taman Jaya, 50297 Wangsa Maju, Kuala Lumpur",3.180393,101.67735,1.72,Sederhana,2022-11-22 22:30,Aktif,467,155
+PPS-0500,DEWAN ORANG RAMAI TANJUNG BIDARA,Wangsa Maju,Kuala Lumpur,"38, Persiaran Dewan Orang Ramai Tanjung Bidara, 50604 Wangsa Maju, Kuala Lumpur",3.215343,101.646852,5.77,Kritikal,2020-12-07 20:45,Aktif,192,291
+PPS-0501,BALAI SERBAGUNA TAMAN CONNAUGHT,Seputeh,Kuala Lumpur,"579, Lorong Balai Serbaguna Taman Connaught, 50166 Seputeh, Kuala Lumpur",3.148203,101.710357,2.25,Sederhana,2022-12-19 07:30,Aktif,397,11
+PPS-0502,SEKOLAH GOMBAK SETIA,Titiwangsa,Kuala Lumpur,"3, Lebuh Sekolah Gombak Setia, 50756 Titiwangsa, Kuala Lumpur",3.20332,101.722891,2.15,Sederhana,2023-01-28 13:30,Aktif,315,238
+PPS-0503,MASJID TELUK INTAN,Lembah Pantai,Kuala Lumpur,"285, Lebuh Masjid Teluk Intan, 50645 Lembah Pantai, Kuala Lumpur",3.108442,101.751804,1.51,Sederhana,2022-12-03 18:00,Tidak Aktif,165,216
+PPS-0504,BALAIRAYA BANDAR UTAMA,Cheras,Kuala Lumpur,"65, Jalan Balairaya Bandar Utama, 50128 Cheras, Kuala Lumpur",3.275099,101.639375,2.31,Sederhana,2022-03-27 08:15,Aktif,172,174
+PPS-0505,MASJID PADANG BESAR,Wangsa Maju,Kuala Lumpur,"795, Taman Masjid Padang Besar, 50734 Wangsa Maju, Kuala Lumpur",3.01633,101.666718,1.6,Sederhana,2024-02-04 02:00,Tidak Aktif,243,160
+PPS-0506,SK KAMPUNG PANDAN,Wangsa Maju,Kuala Lumpur,"57, Persiaran Sk Kampung Pandan, 50725 Wangsa Maju, Kuala Lumpur",3.208009,101.756529,1.57,Sederhana,2024-11-02 09:45,Aktif,366,210
+PPS-0507,BALAI SERBAGUNA TANJUNG PUTERI,Kepong,Kuala Lumpur,"465, Lebuh Balai Serbaguna Tanjung Puteri, 50575 Kepong, Kuala Lumpur",3.259375,101.757495,3.82,Tinggi,2020-03-11 20:00,Aktif,218,300
+PPS-0508,SMK BANDAR KINRARA,Kepong,Kuala Lumpur,"809, Lorong Smk Bandar Kinrara, 50686 Kepong, Kuala Lumpur",3.032402,101.602458,1.01,Rendah,2023-01-16 23:45,Aktif,120,22
+PPS-0509,SEKOLAH KAMPUNG PARIT,Cheras,Kuala Lumpur,"319, Taman Sekolah Kampung Parit, 50654 Cheras, Kuala Lumpur",3.038304,101.716904,2.72,Tinggi,2024-01-11 09:30,Tidak Aktif,315,300
+PPS-0510,SEKOLAH TAMAN MEGAH,Titiwangsa,Kuala Lumpur,"880, Jalan Sekolah Taman Megah, 50532 Titiwangsa, Kuala Lumpur",3.20349,101.611464,1.48,Rendah,2020-12-11 06:45,Tidak Aktif,289,169
+PPS-0511,BALAI SERBAGUNA BANDAR UTAMA,Wangsa Maju,Kuala Lumpur,"429, Persiaran Balai Serbaguna Bandar Utama, 50266 Wangsa Maju, Kuala Lumpur",3.173523,101.792613,1.38,Rendah,2023-11-08 00:15,Tidak Aktif,288,109
+PPS-0512,BALAIRAYA BATU PAHAT,Kepong,Kuala Lumpur,"211, Lebuh Balairaya Batu Pahat, 50288 Kepong, Kuala Lumpur",3.144224,101.75367,2.51,Tinggi,2020-11-12 00:00,Aktif,275,99
+PPS-0513,SK BUKIT MERAH,Titiwangsa,Kuala Lumpur,"204, Lorong Sk Bukit Merah, 50390 Titiwangsa, Kuala Lumpur",3.175706,101.753107,1.39,Rendah,2022-12-28 17:15,Aktif,61,90
+PPS-0514,DEWAN KOMUNITI BATU PAHAT,Wangsa Maju,Kuala Lumpur,"671, Jalan Dewan Komuniti Batu Pahat, 50446 Wangsa Maju, Kuala Lumpur",3.078537,101.620238,4.76,Kritikal,2022-12-26 11:15,Tidak Aktif,459,222
+PPS-0515,SK TAMAN MAJU,Putrajaya,Putrajaya,"546, Lebuh Sk Taman Maju, 62811 Putrajaya, Putrajaya",2.914443,101.692416,2.1,Sederhana,2020-12-25 19:15,Tidak Aktif,200,76
+PPS-0516,MASJID BANDAR BARU,Putrajaya,Putrajaya,"872, Taman Masjid Bandar Baru, 62698 Putrajaya, Putrajaya",2.924717,101.662946,2.81,Tinggi,2023-11-26 21:00,Aktif,248,260
+PPS-0517,MASJID TANJUNG BIDARA,Putrajaya,Putrajaya,"539, Lebuh Masjid Tanjung Bidara, 62832 Putrajaya, Putrajaya",2.949859,101.646427,5.18,Kritikal,2023-03-21 18:00,Aktif,153,231
+PPS-0518,PUSAT KOMUNITI KAMPUNG CHERAS,Putrajaya,Putrajaya,"161, Persiaran Pusat Komuniti Kampung Cheras, 62360 Putrajaya, Putrajaya",2.93959,101.6306,1.63,Sederhana,2022-11-15 16:30,Aktif,71,238
+PPS-0519,PUSAT KOMUNITI TANJUNG BIDARA,Putrajaya,Putrajaya,"824, Lebuh Pusat Komuniti Tanjung Bidara, 62424 Putrajaya, Putrajaya",2.94261,101.646755,0.52,Rendah,2021-02-09 20:00,Aktif,92,150
+PPS-0520,DEWAN KOMUNITI TAMAN JAYA,Putrajaya,Putrajaya,"74, Persiaran Dewan Komuniti Taman Jaya, 62139 Putrajaya, Putrajaya",2.978587,101.692661,1.83,Sederhana,2022-01-10 23:30,Aktif,359,70
+PPS-0521,MASJID KAMPUNG JAWA,Putrajaya,Putrajaya,"969, Lebuh Masjid Kampung Jawa, 62941 Putrajaya, Putrajaya",2.900853,101.629947,2.16,Sederhana,2024-02-25 04:45,Aktif,420,107
+PPS-0522,KOMPLEKS SUKAN GOMBAK SETIA,Putrajaya,Putrajaya,"740, Lebuh Kompleks Sukan Gombak Setia, 62448 Putrajaya, Putrajaya",2.923372,101.6587,2.97,Tinggi,2023-12-25 22:45,Aktif,280,285
+PPS-0523,SK BANDAR UTAMA,Putrajaya,Putrajaya,"966, Jalan Sk Bandar Utama, 62611 Putrajaya, Putrajaya",2.93747,101.657751,3.75,Tinggi,2021-01-14 13:45,Tidak Aktif,403,275
+PPS-0524,DEWAN KOMUNITI BANDAR BARU,Putrajaya,Putrajaya,"158, Persiaran Dewan Komuniti Bandar Baru, 62681 Putrajaya, Putrajaya",2.932608,101.602324,2.1,Sederhana,2024-03-28 12:45,Aktif,250,32
+PPS-0525,KOMPLEKS SUKAN KAMPUNG PANDAN,Putrajaya,Putrajaya,"655, Persiaran Kompleks Sukan Kampung Pandan, 62195 Putrajaya, Putrajaya",2.918834,101.610864,1.17,Rendah,2020-12-27 22:45,Aktif,151,35
+PPS-0526,KOMPLEKS SUKAN PADANG BESAR,Putrajaya,Putrajaya,"466, Jalan Kompleks Sukan Padang Besar, 62477 Putrajaya, Putrajaya",2.928382,101.623304,1.67,Sederhana,2023-02-06 03:15,Aktif,294,35
+PPS-0527,SK FELDA PALONG,Putrajaya,Putrajaya,"318, Lebuh Sk Felda Palong, 62937 Putrajaya, Putrajaya",2.99551,101.68657,3.21,Tinggi,2024-03-10 18:15,Aktif,400,234
+PPS-0528,PUSAT KOMUNITI PADANG BESAR,Putrajaya,Putrajaya,"845, Lebuh Pusat Komuniti Padang Besar, 62719 Putrajaya, Putrajaya",2.92017,101.699109,3.29,Tinggi,2023-03-15 14:00,Tidak Aktif,197,233
+PPS-0529,MASJID KAMPUNG JAWA,Putrajaya,Putrajaya,"628, Lorong Masjid Kampung Jawa, 62525 Putrajaya, Putrajaya",2.970032,101.671165,1.4,Rendah,2023-02-13 21:15,Tidak Aktif,98,201
+PPS-0530,MASJID SRI PETALING,Putrajaya,Putrajaya,"299, Jalan Masjid Sri Petaling, 62814 Putrajaya, Putrajaya",2.92397,101.687054,3.85,Tinggi,2023-02-25 17:00,Tidak Aktif,89,53
+PPS-0531,SK TAMAN DESA,Putrajaya,Putrajaya,"46, Lebuh Sk Taman Desa, 62127 Putrajaya, Putrajaya",2.94101,101.616484,1.19,Rendah,2023-02-11 23:45,Tidak Aktif,253,19
+PPS-0532,SK TAMAN CEMPAKA,Putrajaya,Putrajaya,"687, Lebuh Sk Taman Cempaka, 62596 Putrajaya, Putrajaya",2.925061,101.67091,1.58,Sederhana,2023-12-05 15:30,Tidak Aktif,137,9
+PPS-0533,PUSAT KOMUNITI GUNUNG RAPAT,Putrajaya,Putrajaya,"80, Jalan Pusat Komuniti Gunung Rapat, 62793 Putrajaya, Putrajaya",2.917724,101.612415,0.94,Rendah,2021-12-23 01:15,Aktif,74,267
+PPS-0534,DEWAN KOMUNITI TAMAN CONNAUGHT,Putrajaya,Putrajaya,"5, Jalan Dewan Komuniti Taman Connaught, 62890 Putrajaya, Putrajaya",2.939062,101.630832,1.7,Sederhana,2022-12-08 06:00,Aktif,64,7
+PPS-0535,DEWAN KOMUNITI KAMPUNG NELAYAN,Putrajaya,Putrajaya,"982, Jalan Dewan Komuniti Kampung Nelayan, 62916 Putrajaya, Putrajaya",2.982053,101.667996,3.5,Tinggi,2020-12-14 16:00,Tidak Aktif,215,287
+PPS-0536,PUSAT KOMUNITI SRI ANDALAS,Putrajaya,Putrajaya,"124, Lorong Pusat Komuniti Sri Andalas, 62318 Putrajaya, Putrajaya",2.962467,101.693433,0.82,Rendah,2023-11-21 10:00,Aktif,284,112
+PPS-0537,KOMPLEKS SUKAN TANJUNG BIDARA,Putrajaya,Putrajaya,"45, Jalan Kompleks Sukan Tanjung Bidara, 62323 Putrajaya, Putrajaya",2.965796,101.627846,2.27,Sederhana,2020-02-23 17:15,Aktif,98,166
+PPS-0538,SK KAWASAN BARU,Putrajaya,Putrajaya,"180, Persiaran Sk Kawasan Baru, 62971 Putrajaya, Putrajaya",2.96779,101.697237,1.57,Sederhana,2024-11-19 14:45,Aktif,429,119
+PPS-0539,DEWAN KOMUNITI BANDAR UTAMA,Putrajaya,Putrajaya,"243, Lebuh Dewan Komuniti Bandar Utama, 62875 Putrajaya, Putrajaya",2.923261,101.661635,0.58,Rendah,2022-12-16 09:15,Aktif,154,19
+PPS-0540,PUSAT KOMUNITI KAWASAN BARU,Putrajaya,Putrajaya,"138, Persiaran Pusat Komuniti Kawasan Baru, 62425 Putrajaya, Putrajaya",2.992341,101.659808,2.26,Sederhana,2023-03-21 09:00,Aktif,425,169
+PPS-0541,SK KAMPUNG NELAYAN,Putrajaya,Putrajaya,"623, Lebuh Sk Kampung Nelayan, 62633 Putrajaya, Putrajaya",2.924225,101.653931,0.94,Rendah,2020-11-28 15:00,Tidak Aktif,76,72
+PPS-0542,DEWAN BUKIT TINGGI,Labuan,Labuan,"520, Jalan Dewan Bukit Tinggi, 87536 Labuan, Labuan",5.218352,115.218526,2.97,Tinggi,2021-12-14 05:15,Aktif,345,229
+PPS-0543,SK TANJUNG BIDARA,Labuan,Labuan,"408, Lebuh Sk Tanjung Bidara, 87271 Labuan, Labuan",5.254372,115.256258,1.92,Sederhana,2023-03-25 04:45,Aktif,245,218
+PPS-0544,BALAIRAYA SRI PETALING,Labuan,Labuan,"157, Taman Balairaya Sri Petaling, 87844 Labuan, Labuan",5.351772,115.284306,0.88,Rendah,2023-01-10 12:45,Aktif,119,240
+PPS-0545,SK TAMAN DESA,Labuan,Labuan,"748, Persiaran Sk Taman Desa, 87603 Labuan, Labuan",5.230945,115.137925,1.92,Sederhana,2022-02-13 15:30,Tidak Aktif,351,36
+PPS-0546,SK BATU PAHAT,Labuan,Labuan,"955, Taman Sk Batu Pahat, 87266 Labuan, Labuan",5.377,115.298494,0.94,Rendah,2022-01-17 22:45,Tidak Aktif,238,29
+PPS-0547,DEWAN BUKIT RAHMAN,Labuan,Labuan,"36, Persiaran Dewan Bukit Rahman, 87746 Labuan, Labuan",5.385304,115.247133,2.54,Tinggi,2022-12-20 14:15,Aktif,358,296
+PPS-0548,PUSAT KOMUNITI KAMPUNG JAWA,Labuan,Labuan,"724, Taman Pusat Komuniti Kampung Jawa, 87182 Labuan, Labuan",5.202467,115.254194,1.69,Sederhana,2021-02-27 13:30,Tidak Aktif,306,272
+PPS-0549,SK SERI KEMBANGAN,Labuan,Labuan,"652, Taman Sk Seri Kembangan, 87895 Labuan, Labuan",5.317216,115.246787,3.72,Tinggi,2021-01-24 12:30,Aktif,136,251
+PPS-0550,PUSAT KOMUNITI KAMPUNG ATTAP,Labuan,Labuan,"427, Persiaran Pusat Komuniti Kampung Attap, 87850 Labuan, Labuan",5.219374,115.254749,1.68,Sederhana,2021-12-07 15:15,Aktif,106,230
+PPS-0551,DEWAN TAMAN MAJU,Labuan,Labuan,"266, Lebuh Dewan Taman Maju, 87551 Labuan, Labuan",5.237128,115.111796,2.12,Sederhana,2020-12-10 02:45,Aktif,82,175
+PPS-0552,SK TANJUNG PUTERI,Labuan,Labuan,"63, Persiaran Sk Tanjung Puteri, 87869 Labuan, Labuan",5.317129,115.195579,5.66,Kritikal,2020-11-07 16:00,Aktif,316,136
+PPS-0553,PUSAT KOMUNITI KAWASAN BARU,Labuan,Labuan,"380, Persiaran Pusat Komuniti Kawasan Baru, 87422 Labuan, Labuan",5.294646,115.167406,3.91,Tinggi,2023-02-20 01:30,Tidak Aktif,462,51
+PPS-0554,DEWAN BUKIT MERAH,Labuan,Labuan,"617, Jalan Dewan Bukit Merah, 87989 Labuan, Labuan",5.291384,115.239662,2.45,Sederhana,2022-12-15 19:45,Aktif,388,96
+PPS-0555,MASJID BUKIT MERAH,Labuan,Labuan,"649, Persiaran Masjid Bukit Merah, 87994 Labuan, Labuan",5.397236,115.291509,1.31,Rendah,2023-01-08 19:45,Aktif,363,41
+PPS-0556,PUSAT KOMUNITI SERI KEMBANGAN,Labuan,Labuan,"752, Lebuh Pusat Komuniti Seri Kembangan, 87400 Labuan, Labuan",5.285583,115.286297,2.21,Sederhana,2024-03-26 22:00,Aktif,457,44
+PPS-0557,PUSAT KOMUNITI GUNUNG RAPAT,Labuan,Labuan,"918, Lebuh Pusat Komuniti Gunung Rapat, 87218 Labuan, Labuan",5.366471,115.299261,2.04,Sederhana,2021-12-06 21:00,Aktif,416,14
+PPS-0558,PUSAT KOMUNITI SRI GOMBAK,Labuan,Labuan,"226, Persiaran Pusat Komuniti Sri Gombak, 87781 Labuan, Labuan",5.385801,115.1653,2.4,Sederhana,2021-11-18 20:45,Aktif,404,170
+PPS-0559,BALAIRAYA PADANG BESAR,Labuan,Labuan,"660, Persiaran Balairaya Padang Besar, 87486 Labuan, Labuan",5.386356,115.253267,5.86,Kritikal,2024-02-28 13:15,Aktif,109,148
+PPS-0560,BALAIRAYA TAMAN MAJU,Labuan,Labuan,"763, Jalan Balairaya Taman Maju, 87686 Labuan, Labuan",5.222277,115.168048,2.35,Sederhana,2024-02-24 00:30,Aktif,324,97
+PPS-0561,MASJID BANDAR BARU,Labuan,Labuan,"533, Taman Masjid Bandar Baru, 87704 Labuan, Labuan",5.39597,115.163929,0.9,Rendah,2023-03-11 04:30,Tidak Aktif,305,233
+PPS-0562,SK TAMAN CONNAUGHT,Labuan,Labuan,"328, Persiaran Sk Taman Connaught, 87614 Labuan, Labuan",5.320293,115.129174,4.31,Kritikal,2023-03-21 06:45,Aktif,242,30
+PPS-0563,DEWAN TELUK INTAN,Labuan,Labuan,"946, Lorong Dewan Teluk Intan, 87977 Labuan, Labuan",5.23054,115.243353,1.89,Sederhana,2020-12-18 12:30,Aktif,292,178
+PPS-0564,MASJID KAMPUNG MEDAN,Labuan,Labuan,"714, Lorong Masjid Kampung Medan, 87817 Labuan, Labuan",5.278213,115.205569,3.09,Tinggi,2022-12-25 18:00,Tidak Aktif,413,155
+PPS-0565,PUSAT KOMUNITI BUKIT RAHMAN,Labuan,Labuan,"299, Lorong Pusat Komuniti Bukit Rahman, 87314 Labuan, Labuan",5.330927,115.215431,1.25,Rendah,2022-11-24 18:00,Tidak Aktif,489,75
+PPS-0566,DEWAN TELUK INTAN,Labuan,Labuan,"99, Persiaran Dewan Teluk Intan, 87585 Labuan, Labuan",5.39008,115.185422,0.55,Rendah,2022-03-19 13:15,Tidak Aktif,256,125
+PPS-0567,MASJID TAMAN CONNAUGHT,Labuan,Labuan,"978, Lorong Masjid Taman Connaught, 87768 Labuan, Labuan",5.223761,115.179329,3.66,Tinggi,2023-11-28 20:45,Aktif,384,227
+PPS-0568,SK KAMPUNG KERINCHI,Labuan,Labuan,"657, Taman Sk Kampung Kerinchi, 87330 Labuan, Labuan",5.20232,115.123326,1.07,Rendah,2023-03-09 22:00,Tidak Aktif,142,196
+PPS-0569,MASJID KAMPUNG CHERAS,Labuan,Labuan,"129, Jalan Masjid Kampung Cheras, 87433 Labuan, Labuan",5.399991,115.240547,1.41,Rendah,2021-03-13 22:00,Aktif,468,274
+PPS-0570,BALAIRAYA TAMAN JAYA,Labuan,Labuan,"772, Lorong Balairaya Taman Jaya, 87774 Labuan, Labuan",5.212786,115.267429,2.77,Tinggi,2021-03-01 17:45,Tidak Aktif,112,20
+PPS-0571,SK TAMAN MEGAH,Labuan,Labuan,"263, Jalan Sk Taman Megah, 87186 Labuan, Labuan",5.315016,115.230528,5.27,Kritikal,2024-01-06 13:00,Aktif,73,265
+PPS-0572,BALAIRAYA KAMPUNG KERINCHI,Labuan,Labuan,"712, Persiaran Balairaya Kampung Kerinchi, 87635 Labuan, Labuan",5.331832,115.188984,6.49,Kritikal,2024-03-17 06:00,Tidak Aktif,72,121

@@ -1,0 +1,6 @@
+Scenario,Prediction
+Extreme rainfall + high water level (expect: High),High
+Zero rainfall + normal water level (expect: Low),Low
+Moderate rainfall + rising water level (expect: Medium),Medium
+Missing/zero sensor readings (stress test),Medium
+High rainfall but low water level (mismatch test),Medium

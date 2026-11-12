@@ -1,0 +1,57 @@
+FLOODGUARD MALAYSIA - MODEL CARD
+Generated: 17 August 2026
+
+MODEL TYPE
+Random Forest Classifier (tuned)
+Parameters: {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'sqrt', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 2, 'min_weight_fraction_leaf': 0.0, 'monotonic_cst': None, 'n_estimators': 300, 'n_jobs': -1, 'oob_score': False, 'random_state': 42, 'verbose': 0, 'warm_start': False}
+
+WHAT IT PREDICTS
+Flood risk level for a given location and time: Low, Medium, or High.
+
+INPUT FEATURES (13 total)
+- Year
+- Month
+- Is_Monsoon
+- Rainfall_mm
+- Rainfall_7day_rolling
+- Temperature_C
+- Humidity_pct
+- Wind_Speed_kmh
+- Cloud_Cover_pct
+- Water_Level_m
+- Water_Discharge_m3s
+- Alert_Level_Encoded
+- Season_Encoded
+
+TRAINING DATA
+- Source: FloodGuard synthetic rainfall and river hydrology datasets
+- Coverage: Kelantan, Terengganu, Selangor, Johor
+- Records: 7,128 real merged records, expanded to 16,047 after SMOTE balancing
+- Note: Rainfall and river data are synthetic, generated to match real
+  Malaysian station and district patterns. Real JPS and MetMalaysia data
+  collection is planned for FYP 2 to retrain this model on live data.
+
+PERFORMANCE (on held-out 20% test set)
+- Accuracy: 99.38%
+- F1-Score (weighted): 99.38%
+- Compared against XGBoost (99.41%) and Logistic Regression (89.41%)
+
+EDGE CASE TESTING RESULTS
+- Extreme rainfall + high water level (expect: High) -> Predicted: High
+- Zero rainfall + normal water level (expect: Low) -> Predicted: Low
+- Moderate rainfall + rising water level (expect: Medium) -> Predicted: Medium
+- Missing/zero sensor readings (stress test) -> Predicted: Medium
+- High rainfall but low water level (mismatch test) -> Predicted: Medium
+
+KNOWN LIMITATIONS
+1. The model has no built-in way to detect invalid or missing sensor
+   input (all-zero readings were predicted as Medium risk instead of
+   being flagged as invalid). This must be handled in the API layer.
+2. High accuracy reflects patterns in synthetic training data. Real-world
+   performance on live JPS/MetMalaysia data has not yet been validated.
+3. Model is trained only on 4 states. It should not be used for
+   predictions outside Kelantan, Terengganu, Selangor, or Johor.
+
+INTENDED USE
+This model is intended to power the FloodGuard Malaysia mobile app's
+flood risk prediction feature via a Flask REST API (Phase 6).
