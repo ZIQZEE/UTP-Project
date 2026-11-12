@@ -39,6 +39,8 @@
 
 ### 📌 Featured projects
 
+**FloodGuard Malaysia**: my Final Year Project at UTP, a flood risk prediction and disaster preparedness platform. A Random Forest model classifies district flood risk for four states, a Flask API serves it to a Flutter Android app in four languages, and a Power BI dashboard supports agency analysts. See the `FloodGuard-Malaysia` branch for the full project.
+
 **ESG & EMCE Power BI Dashboards** — Student Industrial Project at Maxis Broadband Sdn Bhd, building two Power BI dashboards for sustainability monitoring and network performance. See the `Internship - Maxis (Data Ai & DevOps)` branch for the full project.
 
 **Superstore Intelligence Dashboard** — an interactive e-commerce BI dashboard built with Streamlit and Plotly, analyzing 9,983 transactions across four years of sales data. See the `DV` branch for the full project.
