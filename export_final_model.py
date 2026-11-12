@@ -69,10 +69,9 @@ INPUT FEATURES ({len(feature_cols)} total)
 TRAINING DATA
 - Source: FloodGuard synthetic rainfall and river hydrology datasets
 - Coverage: Kelantan, Terengganu, Selangor, Johor
-- Records: 7,128 real merged records, expanded to 16,047 after SMOTE balancing
+- Records: 7,128 merged records, expanded to 16,047 after SMOTE balancing
 - Note: Rainfall and river data are synthetic, generated to match real
-  Malaysian station and district patterns. Real JPS and MetMalaysia data
-  collection is planned for FYP 2 to retrain this model on live data.
+  Malaysian station and district patterns.
 
 PERFORMANCE (on held-out 20% test set)
 - Accuracy: 99.38%

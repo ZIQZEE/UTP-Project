@@ -70,6 +70,11 @@ The project follows the CRISP-DM methodology.
 - SMOTE was applied before the train and test split, so the test set includes synthetic records.
 - The app uses a water condition selected by the user, since no public river sensor API exists.
 
+## Data sources
+
+- The rainfall, river and evacuation centre datasets are synthetic. I generated them to follow Malaysian rainfall and station patterns.
+- `malaysia_flood_master.csv`, `flood.csv` and `_MalaysiaFloodDataset_MalaysiaFloodDataset.csv` are public Kaggle flood datasets, included for reproducibility. Download the originals from Kaggle by searching these file names.
+
 ## Result charts
 
 ![Model comparison](Reports/Photo/Model%20Performance%20Comparison.png)
