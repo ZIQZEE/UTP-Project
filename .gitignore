@@ -1,0 +1,35 @@
+# Secrets and API keys: never commit these
+.env
+*.env
+google-services.json
+GoogleService-Info.plist
+firebase_options.dart
+serviceAccountKey.json
+**/secrets.dart
+**/api_keys.dart
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Flutter and Android
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+.gradle/
+local.properties
+*.keystore
+*.jks
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
